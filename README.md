@@ -25,13 +25,13 @@ Once you have WSL2 and npm installed, you can proceed to run the Ecometrics Reac
 1.  Open your terminal (WSL2 terminal if you're using Windows) and navigate to the directory where you want to clone the Ecometrics repository.
 2.  Run the following command to clone the repository:
 
-        git clone https://github.com/unsw-cse-comp99-3900-24t1/capstone-project-3900h11amaple
+        git clone [https://github.com/haidara02/ecometrics.git]
 
 ### Install Dependencies:
 
 1.  Navigate into the cloned repository directory:
 
-        cd capstone-project-3900h11amaple
+        cd ecometrics
 
 2.  Run npm install to install all dependencies required for the app:
 
