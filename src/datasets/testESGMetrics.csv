@@ -1,0 +1,1001 @@
+company_name,perm_id,data_type,disclosure,metric_description,metric_name,metric_unit,metric_value,metric_year,nb_points_of_observations,metric_period,provider_name,reported_date,pillar,headquarter_country
+Aceso Life Science Group Ltd,4295864449,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0,31/12/2020,57,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+Artgo Holdings Ltd,5040043647,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0,31/12/2020,58,P1Y,Clarity AI,,E,Cayman Islands
+Bay Area Gold Group Ltd,5059998815,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.32,31/12/2020,57,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+Central Wealth Group Holdings Ltd,4295870891,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0,31/12/2020,56,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+China Creative Digital Entertainment Ltd,4295870963,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0,31/12/2020,57,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+China E-Information Technology Group Ltd,4295871439,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0,31/12/2020,54,P1Y,Clarity AI,,E,Cayman Islands
+China LNG Group Ltd,4295871445,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.01,31/12/2020,57,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+China Ocean Industry Group Ltd,4295871842,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.4,31/12/2020,48,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+China Resources Microelectronics Ltd,4295871923,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.5378,31/12/2021,43,P1Y,Clarity AI,31/12/2021 0:00,E,Cayman Islands
+China Wood Optimization Holding Ltd,5040929630,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.01,31/12/2020,57,P1Y,Clarity AI,,E,China
+China Youran Dairy Group Ltd,5077893758,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,10.13558,31/12/2022,38,P1Y,Clarity AI,31/12/2022 0:00,E,
+Chunghwa Picture Tubes Ltd,4295892229,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,10,31/12/2016,57,P1Y,Clarity AI,,E,"Taiwan, China"
+Chunghwa Picture Tubes Ltd,4295892229,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,10,31/12/2017,57,P1Y,Clarity AI,31/12/2017 0:00,E,"Taiwan, China"
+Everest Textile Co Ltd,4295891532,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,25.21,31/12/2020,53,P1Y,Clarity AI,,E,"Taiwan, China"
+FCC Aqualia SA,5000015603,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,9.2,31/12/2021,51,P1Y,Clarity AI,31/12/2021 0:00,E,Spain
+GTI Holdings Ltd,4295864241,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0,31/12/2020,54,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+Genting Hong Kong Ltd,4295871135,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,672,31/12/2020,57,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+Goldcorp Inc (pre-reincorporation),4295861540,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,40,31/12/2016,53,P1Y,Clarity AI,31/12/2016 0:00,E,Canada
+Goldcorp Inc (pre-reincorporation),4295861540,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,60,31/12/2017,53,P1Y,Clarity AI,,E,Canada
+Grand Ocean Advanced Resources Co Ltd,4295872040,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0,31/12/2020,56,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+Henan Zhongfu Industrial Co Ltd,4295864006,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,710.31,31/12/2020,43,P1Y,Clarity AI,,E,China
+Huscoke Holdings Ltd,4295871861,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,26.8,31/12/2020,52,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+Hydro-Quebec,4295863186,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1129,31/12/2022,39,P1Y,Clarity AI,31/12/2022 0:00,E,Canada
+Landeskreditbank Baden Wuerttemberg Foerderbank,4296080185,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,10.567,31/12/2022,45,P1Y,Clarity AI,31/12/2022 0:00,E,Germany
+North Mining Shares Co Ltd,4295871787,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.01,31/12/2020,45,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+Orlen Unipetrol as,4295865833,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3195.35,31/12/2022,42,P1Y,Clarity AI,31/12/2022 0:00,E,Czech Republic
+Pertamina (Persero) PT,5000067369,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,582589.95,31/12/2022,45,P1Y,Clarity AI,31/12/2022 0:00,E,Indonesia
+RS Energy KK,4295877334,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2694,31/12/2016,52,P1Y,Clarity AI,,E,Japan
+RS Energy KK,4295877334,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2250,31/12/2017,52,P1Y,Clarity AI,,E,Japan
+Rentian Technology Holdings Ltd,4295871191,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0,31/12/2020,47,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+Rosan Resources Holdings Ltd,5000059643,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0,31/12/2020,38,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+SK IE Technology Co Ltd,5069469748,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0,31/12/2021,50,P1Y,Clarity AI,31/12/2021 0:00,E,"Korea, Rep."
+Seligdar PAO,4298077074,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,81,31/12/2020,52,P1Y,Clarity AI,,E,Russian Federation
+Spinnova Oyj,5045517671,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0,31/12/2022,39,P1Y,Clarity AI,31/12/2022 0:00,E,Finland
+Styland Holdings Ltd,4295871793,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0,31/12/2020,56,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+Trinity Ltd,5000458994,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0,31/12/2020,47,P1Y,Clarity AI,,E,Bermuda
+Value Convergence Holdings Ltd,4295871421,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0,31/12/2020,54,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+Vectren Corp,4295900961,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,5559,31/12/2017,44,P1Y,Clarity AI,31/12/2017 0:00,E,United States
+Victory City International Holdings Ltd,4295871840,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,67.85,31/12/2020,46,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+Youyuan International Holdings Ltd,5000735820,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,149.75,31/12/2020,40,P1Y,Clarity AI,,E,Cayman Islands
+Repsol SA,4295889563,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,25190,31/12/2021,347,P1Y,Clarity AI,31/12/2021 0:00,E,Spain
+Repsol SA,4295889563,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,24360,31/12/2020,347,P1Y,Clarity AI,,E,Spain
+Fluidra SA,4295889265,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1.09,31/12/2016,329,P1Y,Clarity AI,,E,Spain
+Acciona SA,4295889303,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3351,31/12/2017,329,P1Y,Clarity AI,31/12/2017 0:00,E,Spain
+Fluidra SA,4295889265,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4.46,31/12/2020,329,P1Y,Clarity AI,,E,Spain
+Fluidra SA,4295889265,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1.1,31/12/2017,329,P1Y,Clarity AI,,E,Spain
+Acciona SA,4295889303,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,135,31/12/2021,329,P1Y,Clarity AI,31/12/2021 0:00,E,Spain
+Acciona SA,4295889303,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,141,31/12/2020,329,P1Y,Clarity AI,,E,Spain
+Sasol Ltd,4295889096,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,181100,31/12/2021,306,P1Y,Clarity AI,31/12/2021 0:00,E,South Africa
+Sasol Ltd,4295889096,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,222600,31/12/2016,306,P1Y,Clarity AI,,E,South Africa
+Sasol Ltd,4295889096,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,196300,31/12/2020,306,P1Y,Clarity AI,,E,South Africa
+Sasol Ltd,4295889096,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,161870,31/12/2022,306,P1Y,Clarity AI,31/12/2022 0:00,E,South Africa
+Sasol Ltd,4295889096,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,170700,31/12/2019,306,P1Y,Clarity AI,,E,South Africa
+Sasol Ltd,4295889096,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,188600,31/12/2018,306,P1Y,Clarity AI,,E,South Africa
+Sasol Ltd,4295889096,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,201600,31/12/2017,306,P1Y,Clarity AI,,E,South Africa
+Trane Technologies PLC,5000668795,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,7.56,31/12/2019,304,P1Y,Clarity AI,31/12/2019 0:00,E,Ireland
+Trane Technologies PLC,5000668795,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,5.57,31/12/2021,304,P1Y,Clarity AI,31/12/2021 0:00,E,Ireland
+Trane Technologies PLC,5000668795,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,7.79,31/12/2018,304,P1Y,Clarity AI,31/12/2018 0:00,E,Ireland
+Trane Technologies PLC,5000668795,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,7.52,31/12/2017,304,P1Y,Clarity AI,,E,Ireland
+Trane Technologies PLC,5000668795,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,5.06,31/12/2020,304,P1Y,Clarity AI,,E,Ireland
+Ferrari NV,5048024162,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1.073,31/12/2019,302,P1Y,Clarity AI,,E,Netherlands
+Ferrari NV,5048024162,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1,31/12/2021,302,P1Y,Clarity AI,31/12/2021 0:00,E,Netherlands
+Ferrari NV,5048024162,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1.378,31/12/2018,302,P1Y,Clarity AI,,E,Netherlands
+Ferrari NV,5048024162,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.995,31/12/2017,302,P1Y,Clarity AI,,E,Netherlands
+Ferrari NV,5048024162,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1.504,31/12/2016,302,P1Y,Clarity AI,,E,Netherlands
+Ferrari NV,5048024162,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1.09,31/12/2020,302,P1Y,Clarity AI,,E,Netherlands
+Gail (India) Ltd,4295873202,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,294,31/12/2020,300,P1Y,Clarity AI,,E,India
+Gail (India) Ltd,4295873202,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,227,31/12/2018,300,P1Y,Clarity AI,31/12/2018 0:00,E,India
+Gail (India) Ltd,4295873202,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,520,31/12/2023,300,P1Y,Clarity AI,31/12/2023 0:00,E,India
+Gail (India) Ltd,4295873202,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,201,31/12/2021,300,P1Y,Clarity AI,31/12/2021 0:00,E,India
+Gail (India) Ltd,4295873202,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,276,31/12/2019,300,P1Y,Clarity AI,,E,India
+Gail (India) Ltd,4295873202,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,206,31/12/2017,300,P1Y,Clarity AI,,E,India
+FedEx Corp,4295912126,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,20623,31/12/2016,299,P1Y,Clarity AI,,E,United States
+FedEx Corp,4295912126,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,11050,31/12/2019,299,P1Y,Clarity AI,,E,United States
+FedEx Corp,4295912126,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,21031,31/12/2017,299,P1Y,Clarity AI,31/12/2017 0:00,E,United States
+FedEx Corp,4295912126,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,10807,31/12/2018,299,P1Y,Clarity AI,,E,United States
+FedEx Corp,4295912126,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,12476,31/12/2021,299,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+FedEx Corp,4295912126,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,11127,31/12/2020,299,P1Y,Clarity AI,,E,United States
+Diageo PLC,4295894791,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,196,31/12/2021,298,P1Y,Clarity AI,31/12/2021 0:00,E,United Kingdom
+Diageo PLC,4295894791,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,945,31/12/2018,298,P1Y,Clarity AI,,E,United Kingdom
+Diageo PLC,4295894791,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,810,31/12/2020,298,P1Y,Clarity AI,,E,United Kingdom
+Diageo PLC,4295894791,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,949,31/12/2019,298,P1Y,Clarity AI,,E,United Kingdom
+Diageo PLC,4295894791,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,838,31/12/2017,298,P1Y,Clarity AI,31/12/2017 0:00,E,United Kingdom
+Cemex SAB de CV,5000057902,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,9483,31/12/2020,295,P1Y,Clarity AI,,E,Mexico
+Canacol Energy Ltd,4296418449,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,5.95,31/12/2021,295,P1Y,Clarity AI,31/12/2021 0:00,E,Canada
+Ferrovial SA,4295889649,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,215.06,31/12/2019,295,P1Y,Clarity AI,31/12/2019 0:00,E,Spain
+Cemex SAB de CV,5000057902,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,10399,31/12/2017,295,P1Y,Clarity AI,,E,Mexico
+Cemex SAB de CV,5000057902,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,9833,31/12/2021,295,P1Y,Clarity AI,31/12/2021 0:00,E,Mexico
+Boliden AB,4295890178,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,7060,31/12/2016,295,P1Y,Clarity AI,,E,Sweden
+Boliden AB,4295890178,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6240,31/12/2019,295,P1Y,Clarity AI,,E,Sweden
+Boliden AB,4295890178,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6100,31/12/2022,295,P1Y,Clarity AI,31/12/2022 0:00,E,Sweden
+Boliden AB,4295890178,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6310,31/12/2020,295,P1Y,Clarity AI,,E,Sweden
+Ferrovial SA,4295889649,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,292.4,31/12/2017,295,P1Y,Clarity AI,31/12/2017 0:00,E,Spain
+Boliden AB,4295890178,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,7360,31/12/2017,295,P1Y,Clarity AI,,E,Sweden
+Cemex SAB de CV,5000057902,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,13089,31/12/2016,295,P1Y,Clarity AI,,E,Mexico
+Ferrovial SA,4295889649,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,141.09,31/12/2021,295,P1Y,Clarity AI,31/12/2021 0:00,E,Spain
+Boliden AB,4295890178,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6430,31/12/2021,295,P1Y,Clarity AI,31/12/2021 0:00,E,Sweden
+Boliden AB,4295890178,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,7720,31/12/2018,295,P1Y,Clarity AI,,E,Sweden
+Cemex SAB de CV,5000057902,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,11543,31/12/2018,295,P1Y,Clarity AI,,E,Mexico
+Cemex SAB de CV,5000057902,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,12047,31/12/2019,295,P1Y,Clarity AI,,E,Mexico
+Ferrovial SA,4295889649,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,145.47,31/12/2020,295,P1Y,Clarity AI,,E,Spain
+Far Eastern New Century Corp,4295892119,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,285,31/12/2017,293,P1Y,Clarity AI,,E,"Taiwan, China"
+Far Eastern New Century Corp,4295892119,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,220,31/12/2018,293,P1Y,Clarity AI,,E,"Taiwan, China"
+Far Eastern New Century Corp,4295892119,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,372,31/12/2020,293,P1Y,Clarity AI,,E,"Taiwan, China"
+Far Eastern New Century Corp,4295892119,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,361,31/12/2019,293,P1Y,Clarity AI,,E,"Taiwan, China"
+Far Eastern New Century Corp,4295892119,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,349,31/12/2021,293,P1Y,Clarity AI,31/12/2021 0:00,E,"Taiwan, China"
+Far Eastern New Century Corp,4295892119,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,284,31/12/2016,293,P1Y,Clarity AI,,E,"Taiwan, China"
+Nestle (Malaysia) Bhd,4295883085,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,32,31/12/2021,292,P1Y,Clarity AI,31/12/2021 0:00,E,Malaysia
+Nestle (Malaysia) Bhd,4295883085,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,144,31/12/2016,292,P1Y,Clarity AI,,E,Malaysia
+Nestle (Malaysia) Bhd,4295883085,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,135,31/12/2019,292,P1Y,Clarity AI,,E,Malaysia
+Nestle (Malaysia) Bhd,4295883085,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,145,31/12/2018,292,P1Y,Clarity AI,,E,Malaysia
+Nestle (Malaysia) Bhd,4295883085,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,147,31/12/2017,292,P1Y,Clarity AI,,E,Malaysia
+Nestle (Malaysia) Bhd,4295883085,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,141,31/12/2020,292,P1Y,Clarity AI,,E,Malaysia
+OMV AG,4295859007,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2995,31/12/2017,290,P1Y,Clarity AI,,E,Austria
+OMV AG,4295859007,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2627,31/12/2019,290,P1Y,Clarity AI,31/12/2019 0:00,E,Austria
+OMV AG,4295859007,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3090,31/12/2018,290,P1Y,Clarity AI,,E,Austria
+OMV AG,4295859007,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3105,31/12/2016,290,P1Y,Clarity AI,,E,Austria
+OMV AG,4295859007,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2544,31/12/2021,290,P1Y,Clarity AI,31/12/2021 0:00,E,Austria
+OMV AG,4295859007,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2720,31/12/2020,290,P1Y,Clarity AI,,E,Austria
+African Rainbow Minerals Ltd,4295888496,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,346,31/12/2017,287,P1Y,Clarity AI,31/12/2017 0:00,E,South Africa
+African Rainbow Minerals Ltd,4295888496,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,274,31/12/2020,287,P1Y,Clarity AI,,E,South Africa
+African Rainbow Minerals Ltd,4295888496,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,257,31/12/2022,287,P1Y,Clarity AI,31/12/2022 0:00,E,South Africa
+African Rainbow Minerals Ltd,4295888496,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,263,31/12/2021,287,P1Y,Clarity AI,31/12/2021 0:00,E,South Africa
+African Rainbow Minerals Ltd,4295888496,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,312,31/12/2018,287,P1Y,Clarity AI,,E,South Africa
+African Rainbow Minerals Ltd,4295888496,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,316,31/12/2016,287,P1Y,Clarity AI,,E,South Africa
+African Rainbow Minerals Ltd,4295888496,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,298,31/12/2019,287,P1Y,Clarity AI,,E,South Africa
+Owens Corning,4295904703,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1764,31/12/2020,285,P1Y,Clarity AI,,E,United States
+Owens Corning,4295904703,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2001,31/12/2021,285,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+Owens Corning,4295904703,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2381,31/12/2017,285,P1Y,Clarity AI,31/12/2017 0:00,E,United States
+Owens Corning,4295904703,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1831,31/12/2019,285,P1Y,Clarity AI,,E,United States
+Owens Corning,4295904703,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2142,31/12/2018,285,P1Y,Clarity AI,,E,United States
+Owens Corning,4295904703,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2306,31/12/2016,285,P1Y,Clarity AI,,E,United States
+Dr Reddy's Laboratories Ltd,4295872868,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,364,31/12/2021,283,P1Y,Clarity AI,31/12/2021 0:00,E,India
+Dr Reddy's Laboratories Ltd,4295872868,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,380,31/12/2019,283,P1Y,Clarity AI,,E,India
+Dr Reddy's Laboratories Ltd,4295872868,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1191,31/12/2016,283,P1Y,Clarity AI,,E,India
+Dr Reddy's Laboratories Ltd,4295872868,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,360,31/12/2017,283,P1Y,Clarity AI,31/12/2017 0:00,E,India
+Dr Reddy's Laboratories Ltd,4295872868,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,440,31/12/2018,283,P1Y,Clarity AI,,E,India
+Banpu PCL,4295892746,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1010,31/12/2021,283,P1Y,Clarity AI,31/12/2021 0:00,E,Thailand
+Banpu PCL,4295892746,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,302,31/12/2017,283,P1Y,Clarity AI,31/12/2017 0:00,E,Thailand
+Banpu PCL,4295892746,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,862,31/12/2020,283,P1Y,Clarity AI,,E,Thailand
+Banpu PCL,4295892746,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,680,31/12/2016,283,P1Y,Clarity AI,,E,Thailand
+Banpu PCL,4295892746,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,377,31/12/2018,283,P1Y,Clarity AI,,E,Thailand
+Banpu PCL,4295892746,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,339,31/12/2019,283,P1Y,Clarity AI,,E,Thailand
+Dr Reddy's Laboratories Ltd,4295872868,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,289,31/12/2020,283,P1Y,Clarity AI,,E,India
+Sands China Ltd,5000496345,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.02,31/12/2020,282,P1Y,Clarity AI,,E,Cayman Islands
+Delta Electronics Thailand PCL,4295892924,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.0034,31/12/2016,282,P1Y,Clarity AI,,E,Thailand
+Delta Electronics Thailand PCL,4295892924,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.088,31/12/2017,282,P1Y,Clarity AI,,E,Thailand
+Sands China Ltd,5000496345,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.0289,31/12/2019,282,P1Y,Clarity AI,,E,Cayman Islands
+Sands China Ltd,5000496345,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.0189,31/12/2022,282,P1Y,Clarity AI,31/12/2022 0:00,E,Cayman Islands
+Thai Oil PCL,4295893454,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4140,31/12/2018,282,P1Y,Clarity AI,,E,Thailand
+Delta Electronics Thailand PCL,4295892924,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.02,31/12/2021,282,P1Y,Clarity AI,31/12/2021 0:00,E,Thailand
+Delta Electronics Thailand PCL,4295892924,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.06,31/12/2020,282,P1Y,Clarity AI,,E,Thailand
+Thai Oil PCL,4295893454,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,5197,31/12/2021,282,P1Y,Clarity AI,31/12/2021 0:00,E,Thailand
+Thai Oil PCL,4295893454,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3490,31/12/2017,282,P1Y,Clarity AI,31/12/2017 0:00,E,Thailand
+Sands China Ltd,5000496345,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.0195,31/12/2021,282,P1Y,Clarity AI,31/12/2021 0:00,E,Cayman Islands
+Thai Oil PCL,4295893454,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4270,31/12/2019,282,P1Y,Clarity AI,,E,Thailand
+Thai Oil PCL,4295893454,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6620,31/12/2020,282,P1Y,Clarity AI,,E,Thailand
+Thai Oil PCL,4295893454,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,7210,31/12/2016,282,P1Y,Clarity AI,,E,Thailand
+Mytilineos SA,4295870463,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3651.1,31/12/2018,281,P1Y,Clarity AI,,E,Greece
+American Electric Power Company Inc,4295903333,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,68652,31/12/2017,281,P1Y,Clarity AI,,E,United States
+Newmont Corporation,4295904618,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,100,31/12/2016,281,P1Y,Clarity AI,,E,United States
+Mytilineos SA,4295870463,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3634,31/12/2019,281,P1Y,Clarity AI,,E,Greece
+American Electric Power Company Inc,4295903333,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,32138,31/12/2020,281,P1Y,Clarity AI,,E,United States
+American Electric Power Company Inc,4295903333,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,47385,31/12/2019,281,P1Y,Clarity AI,,E,United States
+Mytilineos SA,4295870463,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3214.3,31/12/2021,281,P1Y,Clarity AI,31/12/2021 0:00,E,Greece
+Newmont Corporation,4295904618,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,100,31/12/2018,281,P1Y,Clarity AI,,E,United States
+American Electric Power Company Inc,4295903333,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,33987,31/12/2021,281,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+American Electric Power Company Inc,4295903333,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,90213,31/12/2016,281,P1Y,Clarity AI,31/12/2016 0:00,E,United States
+Newmont Corporation,4295904618,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1500,31/12/2017,281,P1Y,Clarity AI,31/12/2017 0:00,E,United States
+Mytilineos SA,4295870463,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3190.1,31/12/2020,281,P1Y,Clarity AI,,E,Greece
+Newmont Corporation,4295904618,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,876.34,31/12/2020,281,P1Y,Clarity AI,,E,United States
+Newmont Corporation,4295904618,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1300,31/12/2021,281,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+Newmont Corporation,4295904618,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2200,31/12/2019,281,P1Y,Clarity AI,,E,United States
+American Electric Power Company Inc,4295903333,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,62274,31/12/2018,281,P1Y,Clarity AI,,E,United States
+Novartis AG,4295890628,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3.1,31/12/2021,279,P1Y,Clarity AI,31/12/2021 0:00,E,Switzerland
+Novartis AG,4295890628,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4.3,31/12/2020,279,P1Y,Clarity AI,,E,Switzerland
+PTT Global Chemical PCL,5036162966,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,401,31/12/2020,279,P1Y,Clarity AI,,E,Thailand
+PTT Global Chemical PCL,5036162966,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1063,31/12/2017,279,P1Y,Clarity AI,,E,Thailand
+PTT Global Chemical PCL,5036162966,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,371,31/12/2022,279,P1Y,Clarity AI,31/12/2022 0:00,E,Thailand
+PTT Global Chemical PCL,5036162966,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,544,31/12/2019,279,P1Y,Clarity AI,,E,Thailand
+PTT Global Chemical PCL,5036162966,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,354,31/12/2021,279,P1Y,Clarity AI,31/12/2021 0:00,E,Thailand
+PTT Global Chemical PCL,5036162966,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,812,31/12/2018,279,P1Y,Clarity AI,,E,Thailand
+PTT Global Chemical PCL,5036162966,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1092,31/12/2016,279,P1Y,Clarity AI,,E,Thailand
+Tech Mahindra Ltd,4295873455,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.03204,31/12/2021,278,P1Y,Clarity AI,31/12/2021 0:00,E,India
+Tech Mahindra Ltd,4295873455,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.06,31/12/2020,278,P1Y,Clarity AI,,E,India
+China Airlines Ltd,4295891726,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,60.38,31/12/2021,277,P1Y,Clarity AI,31/12/2021 0:00,E,"Taiwan, China"
+GMK Noril'skiy Nikel' PAO,4295887092,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1910800,31/12/2020,276,P1Y,Clarity AI,,E,Russian Federation
+Swisscom AG,4295890615,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2.3,31/12/2018,276,P1Y,Clarity AI,,E,Switzerland
+GMK Noril'skiy Nikel' PAO,4295887092,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1601400,31/12/2021,276,P1Y,Clarity AI,31/12/2021 0:00,E,Russian Federation
+GMK Noril'skiy Nikel' PAO,4295887092,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1784970,31/12/2017,276,P1Y,Clarity AI,,E,Russian Federation
+Swisscom AG,4295890615,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3.3,31/12/2017,276,P1Y,Clarity AI,,E,Switzerland
+GMK Noril'skiy Nikel' PAO,4295887092,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1877970,31/12/2016,276,P1Y,Clarity AI,,E,Russian Federation
+Swisscom AG,4295890615,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.9,31/12/2020,276,P1Y,Clarity AI,,E,Switzerland
+Swisscom AG,4295890615,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.4,31/12/2021,276,P1Y,Clarity AI,31/12/2021 0:00,E,Switzerland
+GMK Noril'skiy Nikel' PAO,4295887092,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1869620,31/12/2018,276,P1Y,Clarity AI,,E,Russian Federation
+Swisscom AG,4295890615,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2.4,31/12/2019,276,P1Y,Clarity AI,,E,Switzerland
+GMK Noril'skiy Nikel' PAO,4295887092,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1898140,31/12/2019,276,P1Y,Clarity AI,,E,Russian Federation
+Motor Oil Hellas Corinth Refineries SA,4295870779,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3200,31/12/2016,275,P1Y,Clarity AI,31/12/2016 0:00,E,Greece
+Fortescue Metals Group Ltd,4295857514,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,200,31/12/2020,275,P1Y,Clarity AI,,E,Australia
+Smurfit Kappa Group PLC,4295874981,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2237,31/12/2019,275,P1Y,Clarity AI,,E,Ireland
+Motor Oil Hellas Corinth Refineries SA,4295870779,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2700,31/12/2018,275,P1Y,Clarity AI,,E,Greece
+Dundee Precious Metals Inc,4295861825,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6350,31/12/2021,275,P1Y,Clarity AI,31/12/2021 0:00,E,Canada
+Smurfit Kappa Group PLC,4295874981,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3034,31/12/2016,275,P1Y,Clarity AI,,E,Ireland
+Indorama Ventures PCL,5000045221,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,927,31/12/2016,275,P1Y,Clarity AI,,E,Thailand
+Motor Oil Hellas Corinth Refineries SA,4295870779,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2511,31/12/2020,275,P1Y,Clarity AI,,E,Greece
+Indorama Ventures PCL,5000045221,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4993,31/12/2019,275,P1Y,Clarity AI,,E,Thailand
+National Industrialization Company SJSC,4295887277,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,379.04,31/12/2020,275,P1Y,Clarity AI,,E,Saudi Arabia
+National Industrialization Company SJSC,4295887277,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,392.19,31/12/2021,275,P1Y,Clarity AI,,E,Saudi Arabia
+Smurfit Kappa Group PLC,4295874981,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2694,31/12/2018,275,P1Y,Clarity AI,,E,Ireland
+Dundee Precious Metals Inc,4295861825,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6018,31/12/2020,275,P1Y,Clarity AI,,E,Canada
+Motor Oil Hellas Corinth Refineries SA,4295870779,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2800,31/12/2019,275,P1Y,Clarity AI,,E,Greece
+Indorama Ventures PCL,5000045221,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1970,31/12/2018,275,P1Y,Clarity AI,,E,Thailand
+Motor Oil Hellas Corinth Refineries SA,4295870779,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3100,31/12/2017,275,P1Y,Clarity AI,,E,Greece
+Fortescue Metals Group Ltd,4295857514,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,204,31/12/2022,275,P1Y,Clarity AI,31/12/2022 0:00,E,Australia
+Motor Oil Hellas Corinth Refineries SA,4295870779,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2819,31/12/2021,275,P1Y,Clarity AI,31/12/2021 0:00,E,Greece
+Dundee Precious Metals Inc,4295861825,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,27825,31/12/2016,275,P1Y,Clarity AI,,E,Canada
+Dundee Precious Metals Inc,4295861825,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,11852,31/12/2018,275,P1Y,Clarity AI,31/12/2018 0:00,E,Canada
+Smurfit Kappa Group PLC,4295874981,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2569,31/12/2017,275,P1Y,Clarity AI,,E,Ireland
+Indorama Ventures PCL,5000045221,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6999,31/12/2021,275,P1Y,Clarity AI,31/12/2021 0:00,E,Thailand
+Indorama Ventures PCL,5000045221,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1518,31/12/2017,275,P1Y,Clarity AI,,E,Thailand
+Indorama Ventures PCL,5000045221,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4658,31/12/2020,275,P1Y,Clarity AI,,E,Thailand
+Smurfit Kappa Group PLC,4295874981,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2176,31/12/2021,275,P1Y,Clarity AI,31/12/2021 0:00,E,Ireland
+Dundee Precious Metals Inc,4295861825,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,15105,31/12/2017,275,P1Y,Clarity AI,,E,Canada
+Fortescue Metals Group Ltd,4295857514,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,195,31/12/2021,275,P1Y,Clarity AI,31/12/2021 0:00,E,Australia
+Smurfit Kappa Group PLC,4295874981,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2395,31/12/2020,275,P1Y,Clarity AI,,E,Ireland
+Freeport-McMoRan Inc,4295908588,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,7300,31/12/2020,274,P1Y,Clarity AI,,E,United States
+First Financial Holding Co Ltd,4295892665,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0,31/12/2022,274,P1Y,Clarity AI,31/12/2022 0:00,E,"Taiwan, China"
+Melia Hotels International SA,4295889419,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3.24,31/12/2021,274,P1Y,Clarity AI,31/12/2021 0:00,E,Spain
+Siam Cement PCL,4295892800,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3710,31/12/2020,274,P1Y,Clarity AI,,E,Thailand
+Freeport-McMoRan Inc,4295908588,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,7000,31/12/2021,274,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+Siam Cement PCL,4295892800,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3130,31/12/2021,274,P1Y,Clarity AI,31/12/2021 0:00,E,Thailand
+Freeport-McMoRan Inc,4295908588,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6900,31/12/2022,274,P1Y,Clarity AI,31/12/2022 0:00,E,United States
+Melia Hotels International SA,4295889419,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,12.12,31/12/2020,274,P1Y,Clarity AI,,E,Spain
+Endesa SA,4295889287,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,47845,31/12/2018,273,P1Y,Clarity AI,,E,Spain
+Iberdrola SA,4295889602,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,5392,31/12/2017,273,P1Y,Clarity AI,31/12/2017 0:00,E,Spain
+Iberdrola SA,4295889602,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1763,31/12/2019,273,P1Y,Clarity AI,,E,Spain
+Iberdrola SA,4295889602,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1180,31/12/2021,273,P1Y,Clarity AI,31/12/2021 0:00,E,Spain
+Endesa SA,4295889287,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,9550,31/12/2020,273,P1Y,Clarity AI,,E,Spain
+Endesa SA,4295889287,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,7591,31/12/2021,273,P1Y,Clarity AI,31/12/2021 0:00,E,Spain
+Iberdrola SA,4295889602,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3515,31/12/2018,273,P1Y,Clarity AI,,E,Spain
+Endesa SA,4295889287,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,60287,31/12/2017,273,P1Y,Clarity AI,31/12/2017 0:00,E,Spain
+Endesa SA,4295889287,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,61388,31/12/2016,273,P1Y,Clarity AI,,E,Spain
+Iberdrola SA,4295889602,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1352,31/12/2020,273,P1Y,Clarity AI,,E,Spain
+Endesa SA,4295889287,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,26492,31/12/2019,273,P1Y,Clarity AI,,E,Spain
+Bank of America Corp,8589934339,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1,31/12/2017,272,P1Y,Clarity AI,,E,United States
+Bank of America Corp,8589934339,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1,31/12/2016,272,P1Y,Clarity AI,,E,United States
+Anglo American Platinum Ltd,4298016482,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,14780,31/12/2017,272,P1Y,Clarity AI,31/12/2017 0:00,E,South Africa
+Bank of America Corp,8589934339,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1,31/12/2020,272,P1Y,Clarity AI,,E,United States
+Anglo American Platinum Ltd,4298016482,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,23970,31/12/2016,272,P1Y,Clarity AI,,E,South Africa
+Givaudan SA,4295890924,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1,31/12/2017,272,P1Y,Clarity AI,,E,Switzerland
+Bank of America Corp,8589934339,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1,31/12/2018,272,P1Y,Clarity AI,,E,United States
+Givaudan SA,4295890924,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1,31/12/2018,272,P1Y,Clarity AI,,E,Switzerland
+Givaudan SA,4295890924,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1,31/12/2016,272,P1Y,Clarity AI,,E,Switzerland
+Bank of America Corp,8589934339,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1,31/12/2021,272,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+Givaudan SA,4295890924,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.07,31/12/2020,272,P1Y,Clarity AI,,E,Switzerland
+Givaudan SA,4295890924,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0,31/12/2019,272,P1Y,Clarity AI,,E,Switzerland
+BHP Group Ltd,4295856983,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,17923,31/12/2021,271,P1Y,Clarity AI,31/12/2021 0:00,E,Australia
+BHP Group Ltd,4295856983,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,15400,31/12/2018,271,P1Y,Clarity AI,,E,Australia
+PTT PCL,4295893306,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,106.58,31/12/2017,271,P1Y,Clarity AI,,E,Thailand
+Ecolab Inc,4295903916,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2.49,31/12/2020,271,P1Y,Clarity AI,,E,United States
+PTT PCL,4295893306,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,26.91,31/12/2020,271,P1Y,Clarity AI,,E,Thailand
+Stellantis NV,5043319761,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,105,31/12/2017,271,P1Y,Clarity AI,31/12/2017 0:00,E,Netherlands
+Metsa Board Oyj,4295866436,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,418,31/12/2022,271,P1Y,Clarity AI,31/12/2022 0:00,E,Finland
+BHP Group Ltd,4295856983,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,13200,31/12/2019,271,P1Y,Clarity AI,,E,Australia
+Ecolab Inc,4295903916,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4.07,31/12/2019,271,P1Y,Clarity AI,,E,United States
+PTT PCL,4295893306,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,48.79,31/12/2019,271,P1Y,Clarity AI,,E,Thailand
+Recordati Industria Chimica e Farmaceutica SpA,4295875399,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0,31/12/2022,271,P1Y,Clarity AI,31/12/2022 0:00,E,Italy
+Recordati Industria Chimica e Farmaceutica SpA,4295875399,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.082,31/12/2017,271,P1Y,Clarity AI,31/12/2017 0:00,E,Italy
+Shanghai Fosun Pharmaceutical Group Co Ltd,4295863746,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,118,31/12/2022,271,P1Y,Clarity AI,31/12/2022 0:00,E,China
+Recordati Industria Chimica e Farmaceutica SpA,4295875399,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.025,31/12/2018,271,P1Y,Clarity AI,,E,Italy
+BHP Group Ltd,4295856983,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,16700,31/12/2017,271,P1Y,Clarity AI,,E,Australia
+Shanghai Fosun Pharmaceutical Group Co Ltd,4295863746,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,105,31/12/2020,271,P1Y,Clarity AI,,E,China
+Ecolab Inc,4295903916,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1.22,31/12/2021,271,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+Shanghai Fosun Pharmaceutical Group Co Ltd,4295863746,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,245,31/12/2017,271,P1Y,Clarity AI,,E,China
+Metsa Board Oyj,4295866436,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,295,31/12/2021,271,P1Y,Clarity AI,31/12/2021 0:00,E,Finland
+Shanghai Fosun Pharmaceutical Group Co Ltd,4295863746,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,279,31/12/2018,271,P1Y,Clarity AI,31/12/2018 0:00,E,China
+Metsa Board Oyj,4295866436,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,556,31/12/2017,271,P1Y,Clarity AI,31/12/2017 0:00,E,Finland
+Recordati Industria Chimica e Farmaceutica SpA,4295875399,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.075,31/12/2019,271,P1Y,Clarity AI,,E,Italy
+Ecolab Inc,4295903916,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3.77,31/12/2018,271,P1Y,Clarity AI,,E,United States
+Stellantis NV,5043319761,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,89,31/12/2020,271,P1Y,Clarity AI,,E,Netherlands
+PTT PCL,4295893306,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,97.58,31/12/2016,271,P1Y,Clarity AI,,E,Thailand
+Recordati Industria Chimica e Farmaceutica SpA,4295875399,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.01,31/12/2021,271,P1Y,Clarity AI,31/12/2021 0:00,E,Italy
+PTT PCL,4295893306,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,28.21,31/12/2022,271,P1Y,Clarity AI,31/12/2022 0:00,E,Thailand
+Shanghai Fosun Pharmaceutical Group Co Ltd,4295863746,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,134,31/12/2019,271,P1Y,Clarity AI,,E,China
+Shanghai Fosun Pharmaceutical Group Co Ltd,4295863746,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,101,31/12/2021,271,P1Y,Clarity AI,31/12/2021 0:00,E,China
+BHP Group Ltd,4295856983,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,16272,31/12/2020,271,P1Y,Clarity AI,,E,Australia
+Metsa Board Oyj,4295866436,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,356,31/12/2020,271,P1Y,Clarity AI,,E,Finland
+Stellantis NV,5043319761,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,110.154,31/12/2021,271,P1Y,Clarity AI,31/12/2021 0:00,E,Netherlands
+Ecolab Inc,4295903916,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,5.6,31/12/2017,271,P1Y,Clarity AI,31/12/2017 0:00,E,United States
+Recordati Industria Chimica e Farmaceutica SpA,4295875399,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.02,31/12/2020,271,P1Y,Clarity AI,,E,Italy
+BHP Group Ltd,4295856983,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,18600,31/12/2016,271,P1Y,Clarity AI,,E,Australia
+Metsa Board Oyj,4295866436,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,333,31/12/2019,271,P1Y,Clarity AI,,E,Finland
+PTT PCL,4295893306,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,60,31/12/2018,271,P1Y,Clarity AI,,E,Thailand
+EDP Energias do Brasil SA,4295859771,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,10518.57,31/12/2021,270,P1Y,Clarity AI,31/12/2021 0:00,E,Brazil
+South32 Ltd,5000260289,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,39192,31/12/2017,270,P1Y,Clarity AI,,E,Australia
+Gold Fields Ltd,4295889097,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3161,31/12/2021,270,P1Y,Clarity AI,31/12/2021 0:00,E,South Africa
+Leonardo SpA,4295875430,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3,31/12/2017,270,P1Y,Clarity AI,,E,Italy
+EDP Energias do Brasil SA,4295859771,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,12800,31/12/2019,270,P1Y,Clarity AI,,E,Brazil
+Gold Fields Ltd,4295889097,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3029,31/12/2020,270,P1Y,Clarity AI,,E,South Africa
+South32 Ltd,5000260289,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,37799,31/12/2019,270,P1Y,Clarity AI,,E,Australia
+Leonardo SpA,4295875430,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3,31/12/2020,270,P1Y,Clarity AI,,E,Italy
+Ebro Foods SA,4295889267,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4,31/12/2020,270,P1Y,Clarity AI,,E,Spain
+Hindalco Industries Ltd,4295873625,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,30760,31/12/2017,270,P1Y,Clarity AI,31/12/2017 0:00,E,India
+Hindalco Industries Ltd,4295873625,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,64840,31/12/2020,270,P1Y,Clarity AI,,E,India
+EDP Energias do Brasil SA,4295859771,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,5953.92,31/12/2020,270,P1Y,Clarity AI,,E,Brazil
+Hindalco Industries Ltd,4295873625,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,42090,31/12/2018,270,P1Y,Clarity AI,,E,India
+Ebro Foods SA,4295889267,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3,31/12/2021,270,P1Y,Clarity AI,31/12/2021 0:00,E,Spain
+Leonardo SpA,4295875430,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3,31/12/2019,270,P1Y,Clarity AI,,E,Italy
+South32 Ltd,5000260289,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,41625,31/12/2020,270,P1Y,Clarity AI,,E,Australia
+South32 Ltd,5000260289,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,35803,31/12/2018,270,P1Y,Clarity AI,,E,Australia
+Leonardo SpA,4295875430,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1,31/12/2021,270,P1Y,Clarity AI,31/12/2021 0:00,E,Italy
+Ebro Foods SA,4295889267,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,12,31/12/2017,270,P1Y,Clarity AI,31/12/2017 0:00,E,Spain
+South32 Ltd,5000260289,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,40755,31/12/2021,270,P1Y,Clarity AI,31/12/2021 0:00,E,Australia
+Ebro Foods SA,4295889267,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3,31/12/2022,270,P1Y,Clarity AI,31/12/2022 0:00,E,Spain
+Hindalco Industries Ltd,4295873625,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,79350,31/12/2021,270,P1Y,Clarity AI,31/12/2021 0:00,E,India
+Hang Lung Group Ltd,4295871547,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.00072,31/12/2022,270,P1Y,Clarity AI,31/12/2022 0:00,E,"Hong Kong SAR, China"
+EDP Energias do Brasil SA,4295859771,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,11500,31/12/2018,270,P1Y,Clarity AI,,E,Brazil
+Hindalco Industries Ltd,4295873625,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,15860,31/12/2016,270,P1Y,Clarity AI,,E,India
+EDP Energias do Brasil SA,4295859771,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,17232.05,31/12/2017,270,P1Y,Clarity AI,,E,Brazil
+EDP Energias do Brasil SA,4295859771,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,9917.75,31/12/2016,270,P1Y,Clarity AI,,E,Brazil
+Gold Fields Ltd,4295889097,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3111,31/12/2019,270,P1Y,Clarity AI,,E,South Africa
+Leonardo SpA,4295875430,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3,31/12/2018,270,P1Y,Clarity AI,,E,Italy
+Semen Indonesia (Persero) Tbk PT,4295874376,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2426.65,31/12/2017,269,P1Y,Clarity AI,,E,Indonesia
+Semen Indonesia (Persero) Tbk PT,4295874376,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2388.02,31/12/2018,269,P1Y,Clarity AI,,E,Indonesia
+Polyus PAO,4295887134,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3782,31/12/2020,269,P1Y,Clarity AI,,E,Russian Federation
+Semen Indonesia (Persero) Tbk PT,4295874376,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6194.08,31/12/2019,269,P1Y,Clarity AI,,E,Indonesia
+Semen Indonesia (Persero) Tbk PT,4295874376,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,5884.62,31/12/2021,269,P1Y,Clarity AI,31/12/2021 0:00,E,Indonesia
+Akzo Nobel NV,4295884730,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,30,31/12/2020,269,P1Y,Clarity AI,,E,Netherlands
+Ecopetrol SA,4297066235,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,25700,31/12/2018,269,P1Y,Clarity AI,,E,Colombia
+Akzo Nobel NV,4295884730,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,30,31/12/2022,269,P1Y,Clarity AI,31/12/2022 0:00,E,Netherlands
+Akzo Nobel NV,4295884730,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,30,31/12/2016,269,P1Y,Clarity AI,,E,Netherlands
+Polyus PAO,4295887134,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,8194,31/12/2016,269,P1Y,Clarity AI,,E,Russian Federation
+Akzo Nobel NV,4295884730,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,20,31/12/2018,269,P1Y,Clarity AI,31/12/2018 0:00,E,Netherlands
+Polyus PAO,4295887134,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2336,31/12/2022,269,P1Y,Clarity AI,31/12/2022 0:00,E,Russian Federation
+United Microelectronics Corp,4295891102,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4,31/12/2020,269,P1Y,Clarity AI,,E,"Taiwan, China"
+Polyus PAO,4295887134,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,8053,31/12/2018,269,P1Y,Clarity AI,,E,Russian Federation
+Ecopetrol SA,4297066235,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,14810,31/12/2021,269,P1Y,Clarity AI,31/12/2021 0:00,E,Colombia
+United Microelectronics Corp,4295891102,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.746,31/12/2019,269,P1Y,Clarity AI,,E,"Taiwan, China"
+Akzo Nobel NV,4295884730,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,40,31/12/2019,269,P1Y,Clarity AI,,E,Netherlands
+Neste Oyj,4295866391,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3470,31/12/2020,269,P1Y,Clarity AI,,E,Finland
+United Microelectronics Corp,4295891102,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,24.438,31/12/2021,269,P1Y,Clarity AI,31/12/2021 0:00,E,"Taiwan, China"
+Polyus PAO,4295887134,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3764,31/12/2017,269,P1Y,Clarity AI,31/12/2017 0:00,E,Russian Federation
+Semen Indonesia (Persero) Tbk PT,4295874376,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6257.26,31/12/2020,269,P1Y,Clarity AI,,E,Indonesia
+Akzo Nobel NV,4295884730,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,30,31/12/2017,269,P1Y,Clarity AI,,E,Netherlands
+Polyus PAO,4295887134,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2776,31/12/2021,269,P1Y,Clarity AI,31/12/2021 0:00,E,Russian Federation
+Ecopetrol SA,4297066235,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,26600,31/12/2017,269,P1Y,Clarity AI,,E,Colombia
+Neste Oyj,4295866391,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2430,31/12/2022,269,P1Y,Clarity AI,31/12/2022 0:00,E,Finland
+Neste Oyj,4295866391,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2850,31/12/2021,269,P1Y,Clarity AI,31/12/2021 0:00,E,Finland
+Akzo Nobel NV,4295884730,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,30,31/12/2021,269,P1Y,Clarity AI,31/12/2021 0:00,E,Netherlands
+Neste Oyj,4295866391,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4760,31/12/2017,269,P1Y,Clarity AI,31/12/2017 0:00,E,Finland
+Polyus PAO,4295887134,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,8215,31/12/2019,269,P1Y,Clarity AI,,E,Russian Federation
+Ecopetrol SA,4297066235,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,25800,31/12/2019,269,P1Y,Clarity AI,,E,Colombia
+Ecopetrol SA,4297066235,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,21200,31/12/2016,269,P1Y,Clarity AI,,E,Colombia
+IGO Ltd,4295857272,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.31,31/12/2020,268,P1Y,Clarity AI,,E,Australia
+Fortum Oyj,4295866494,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,17900,31/12/2020,268,P1Y,Clarity AI,,E,Finland
+IGO Ltd,4295857272,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.414,31/12/2019,268,P1Y,Clarity AI,,E,Australia
+Fortum Oyj,4295866494,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,18800,31/12/2017,268,P1Y,Clarity AI,,E,Finland
+Boral Ltd,4295857155,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,157,31/12/2020,268,P1Y,Clarity AI,,E,Australia
+Boral Ltd,4295857155,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,592,31/12/2016,268,P1Y,Clarity AI,31/12/2016 0:00,E,Australia
+Chemours Co,5045867108,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,400,31/12/2022,268,P1Y,Clarity AI,31/12/2022 0:00,E,United States
+Chemours Co,5045867108,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1000,31/12/2020,268,P1Y,Clarity AI,,E,United States
+Boral Ltd,4295857155,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,205,31/12/2018,268,P1Y,Clarity AI,,E,Australia
+IGO Ltd,4295857272,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.386,31/12/2021,268,P1Y,Clarity AI,31/12/2021 0:00,E,Australia
+IGO Ltd,4295857272,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.57,31/12/2018,268,P1Y,Clarity AI,,E,Australia
+Fortum Oyj,4295866494,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,22500,31/12/2016,268,P1Y,Clarity AI,,E,Finland
+IGO Ltd,4295857272,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.262,31/12/2016,268,P1Y,Clarity AI,,E,Australia
+Fortum Oyj,4295866494,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,16800,31/12/2018,268,P1Y,Clarity AI,,E,Finland
+IGO Ltd,4295857272,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.401,31/12/2017,268,P1Y,Clarity AI,,E,Australia
+Boral Ltd,4295857155,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,13,31/12/2021,268,P1Y,Clarity AI,31/12/2021 0:00,E,Australia
+Chemours Co,5045867108,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,700,31/12/2021,268,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+IGO Ltd,4295857272,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.596,31/12/2023,268,P1Y,Clarity AI,31/12/2023 0:00,E,Australia
+Boral Ltd,4295857155,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,675,31/12/2017,268,P1Y,Clarity AI,31/12/2017 0:00,E,Australia
+Fortum Oyj,4295866494,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,14900,31/12/2019,268,P1Y,Clarity AI,,E,Finland
+Fortum Oyj,4295866494,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,20300,31/12/2021,268,P1Y,Clarity AI,31/12/2021 0:00,E,Finland
+Lanxess AG,4295870205,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,900,31/12/2021,267,P1Y,Clarity AI,31/12/2021 0:00,E,Germany
+Lanxess AG,4295870205,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1000,31/12/2017,267,P1Y,Clarity AI,,E,Germany
+International Flavors & Fragrances Inc,4295904309,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.71,31/12/2017,267,P1Y,Clarity AI,,E,United States
+International Flavors & Fragrances Inc,4295904309,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1.74,31/12/2020,267,P1Y,Clarity AI,,E,United States
+Woodside Energy Group Ltd,4295857433,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,53,31/12/2018,267,P1Y,Clarity AI,,E,Australia
+Orsted A/S,4296730041,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,517,31/12/2019,267,P1Y,Clarity AI,,E,Denmark
+Petronas Chemicals Group Bhd,5001150689,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,270,31/12/2018,267,P1Y,Clarity AI,,E,Malaysia
+Petronas Chemicals Group Bhd,5001150689,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,280,31/12/2016,267,P1Y,Clarity AI,,E,Malaysia
+Orsted A/S,4296730041,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,491,31/12/2020,267,P1Y,Clarity AI,,E,Denmark
+CF Industries Holdings Inc,4295903461,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,29,31/12/2021,267,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+Petronas Chemicals Group Bhd,5001150689,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,840,31/12/2019,267,P1Y,Clarity AI,,E,Malaysia
+Orsted A/S,4296730041,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,654,31/12/2018,267,P1Y,Clarity AI,,E,Denmark
+Lanxess AG,4295870205,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,900,31/12/2020,267,P1Y,Clarity AI,,E,Germany
+CF Industries Holdings Inc,4295903461,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,29,31/12/2019,267,P1Y,Clarity AI,,E,United States
+Petronas Chemicals Group Bhd,5001150689,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,270,31/12/2021,267,P1Y,Clarity AI,31/12/2021 0:00,E,Malaysia
+Woodside Energy Group Ltd,4295857433,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,49,31/12/2019,267,P1Y,Clarity AI,,E,Australia
+CF Industries Holdings Inc,4295903461,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,32,31/12/2022,267,P1Y,Clarity AI,31/12/2022 0:00,E,United States
+Woodside Energy Group Ltd,4295857433,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,52,31/12/2017,267,P1Y,Clarity AI,,E,Australia
+Woodside Energy Group Ltd,4295857433,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,52,31/12/2020,267,P1Y,Clarity AI,,E,Australia
+CF Industries Holdings Inc,4295903461,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,30,31/12/2018,267,P1Y,Clarity AI,,E,United States
+Petronas Chemicals Group Bhd,5001150689,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,250,31/12/2017,267,P1Y,Clarity AI,,E,Malaysia
+CF Industries Holdings Inc,4295903461,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,28,31/12/2020,267,P1Y,Clarity AI,,E,United States
+Orsted A/S,4296730041,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,555,31/12/2017,267,P1Y,Clarity AI,,E,Denmark
+Woodside Energy Group Ltd,4295857433,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,50,31/12/2021,267,P1Y,Clarity AI,31/12/2021 0:00,E,Australia
+CF Industries Holdings Inc,4295903461,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,29,31/12/2017,267,P1Y,Clarity AI,,E,United States
+Petronas Chemicals Group Bhd,5001150689,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,340,31/12/2020,267,P1Y,Clarity AI,,E,Malaysia
+Woodside Energy Group Ltd,4295857433,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,41,31/12/2016,267,P1Y,Clarity AI,,E,Australia
+International Flavors & Fragrances Inc,4295904309,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.83,31/12/2018,267,P1Y,Clarity AI,,E,United States
+Lanxess AG,4295870205,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1000,31/12/2018,267,P1Y,Clarity AI,,E,Germany
+Orsted A/S,4296730041,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,625,31/12/2021,267,P1Y,Clarity AI,31/12/2021 0:00,E,Denmark
+CF Industries Holdings Inc,4295903461,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,32,31/12/2016,267,P1Y,Clarity AI,,E,United States
+Lanxess AG,4295870205,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1100,31/12/2016,267,P1Y,Clarity AI,,E,Germany
+Lanxess AG,4295870205,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,900,31/12/2019,267,P1Y,Clarity AI,,E,Germany
+International Flavors & Fragrances Inc,4295904309,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1.87,31/12/2019,267,P1Y,Clarity AI,,E,United States
+China Resources Beer Holdings Co Ltd,4295871002,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,221,31/12/2017,266,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+Polymetal International PLC,5036206981,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1030,31/12/2018,266,P1Y,Clarity AI,,E,
+Wharf Holdings Ltd,4295871557,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.053,31/12/2021,266,P1Y,Clarity AI,31/12/2021 0:00,E,"Hong Kong SAR, China"
+Pirelli & C SpA,4295875704,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,19,31/12/2017,266,P1Y,Clarity AI,31/12/2017 0:00,E,Italy
+Wharf Holdings Ltd,4295871557,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.05,31/12/2020,266,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+Pirelli & C SpA,4295875704,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,10.7,31/12/2020,266,P1Y,Clarity AI,,E,Italy
+Polymetal International PLC,5036206981,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,954,31/12/2019,266,P1Y,Clarity AI,,E,
+Geberit AG,4295890739,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,251.6,31/12/2020,266,P1Y,Clarity AI,,E,Switzerland
+Geberit AG,4295890739,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,294.832,31/12/2018,266,P1Y,Clarity AI,,E,Switzerland
+Geberit AG,4295890739,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,255.965,31/12/2021,266,P1Y,Clarity AI,31/12/2021 0:00,E,Switzerland
+Fincantieri SpA,4295875577,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.04,31/12/2021,266,P1Y,Clarity AI,31/12/2021 0:00,E,Italy
+China Resources Beer Holdings Co Ltd,4295871002,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,90,31/12/2019,266,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+China Resources Beer Holdings Co Ltd,4295871002,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,333,31/12/2016,266,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+Sociedad Quimica y Minera de Chile SA,4295863394,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1448.8,31/12/2022,266,P1Y,Clarity AI,31/12/2022 0:00,E,Chile
+Fincantieri SpA,4295875577,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.74,31/12/2018,266,P1Y,Clarity AI,,E,Italy
+Polymetal International PLC,5036206981,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,983,31/12/2017,266,P1Y,Clarity AI,,E,
+Polymetal International PLC,5036206981,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,847,31/12/2020,266,P1Y,Clarity AI,,E,
+China Resources Beer Holdings Co Ltd,4295871002,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,13,31/12/2021,266,P1Y,Clarity AI,31/12/2021 0:00,E,"Hong Kong SAR, China"
+Fincantieri SpA,4295875577,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.06,31/12/2019,266,P1Y,Clarity AI,,E,Italy
+China Resources Beer Holdings Co Ltd,4295871002,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,100,31/12/2018,266,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+Geberit AG,4295890739,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,287.413,31/12/2019,266,P1Y,Clarity AI,,E,Switzerland
+Fincantieri SpA,4295875577,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.04,31/12/2020,266,P1Y,Clarity AI,,E,Italy
+Geberit AG,4295890739,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,304.503,31/12/2017,266,P1Y,Clarity AI,31/12/2017 0:00,E,Switzerland
+Pirelli & C SpA,4295875704,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,10.1,31/12/2021,266,P1Y,Clarity AI,31/12/2021 0:00,E,Italy
+China Resources Beer Holdings Co Ltd,4295871002,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,23,31/12/2020,266,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+Polymetal International PLC,5036206981,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,847,31/12/2016,266,P1Y,Clarity AI,,E,
+Geberit AG,4295890739,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,256.008,31/12/2022,266,P1Y,Clarity AI,31/12/2022 0:00,E,Switzerland
+General Motors Co,4298546138,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,43,31/12/2021,265,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+Umicore SA,4295859347,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,661,31/12/2017,265,P1Y,Clarity AI,31/12/2017 0:00,E,Belgium
+Celestica Inc,4295861779,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.47,31/12/2020,265,P1Y,Clarity AI,,E,Canada
+Umicore SA,4295859347,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,531,31/12/2019,265,P1Y,Clarity AI,,E,Belgium
+Trelleborg AB,4295890333,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,113,31/12/2019,265,P1Y,Clarity AI,,E,Sweden
+Umicore SA,4295859347,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,372,31/12/2021,265,P1Y,Clarity AI,31/12/2021 0:00,E,Belgium
+Trelleborg AB,4295890333,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,184,31/12/2016,265,P1Y,Clarity AI,,E,Sweden
+Umicore SA,4295859347,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,892,31/12/2016,265,P1Y,Clarity AI,31/12/2016 0:00,E,Belgium
+General Motors Co,4298546138,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,32,31/12/2016,265,P1Y,Clarity AI,,E,United States
+General Motors Co,4298546138,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,26,31/12/2018,265,P1Y,Clarity AI,,E,United States
+Trelleborg AB,4295890333,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,181,31/12/2018,265,P1Y,Clarity AI,,E,Sweden
+Trelleborg AB,4295890333,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,74,31/12/2021,265,P1Y,Clarity AI,31/12/2021 0:00,E,Sweden
+Atkore Inc,5035168041,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.1,31/12/2021,265,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+Trelleborg AB,4295890333,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,55,31/12/2020,265,P1Y,Clarity AI,,E,Sweden
+Celestica Inc,4295861779,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.0023,31/12/2021,265,P1Y,Clarity AI,31/12/2021 0:00,E,Canada
+Umicore SA,4295859347,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,389,31/12/2020,265,P1Y,Clarity AI,,E,Belgium
+General Motors Co,4298546138,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,26,31/12/2017,265,P1Y,Clarity AI,,E,United States
+Umicore SA,4295859347,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,657,31/12/2018,265,P1Y,Clarity AI,31/12/2018 0:00,E,Belgium
+General Motors Co,4298546138,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,26.2,31/12/2020,265,P1Y,Clarity AI,,E,United States
+Trelleborg AB,4295890333,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,187,31/12/2017,265,P1Y,Clarity AI,,E,Sweden
+Trelleborg AB,4295890333,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,65,31/12/2022,265,P1Y,Clarity AI,31/12/2022 0:00,E,Sweden
+Atkore Inc,5035168041,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.09,31/12/2020,265,P1Y,Clarity AI,,E,United States
+AUO Corp,4295890965,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,51.93,31/12/2020,264,P1Y,Clarity AI,,E,"Taiwan, China"
+Kinross Gold Corp,4295862452,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1129,31/12/2020,264,P1Y,Clarity AI,,E,Canada
+Kinross Gold Corp,4295862452,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1076,31/12/2021,264,P1Y,Clarity AI,31/12/2021 0:00,E,Canada
+AUO Corp,4295890965,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,53.8,31/12/2018,264,P1Y,Clarity AI,,E,"Taiwan, China"
+AUO Corp,4295890965,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,47.3,31/12/2017,264,P1Y,Clarity AI,,E,"Taiwan, China"
+AUO Corp,4295890965,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,40.7,31/12/2016,264,P1Y,Clarity AI,,E,"Taiwan, China"
+AUO Corp,4295890965,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,49.96,31/12/2021,264,P1Y,Clarity AI,31/12/2021 0:00,E,"Taiwan, China"
+Turkiye Sise ve Cam Fabrikalari AS,4295893559,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4358.086,31/12/2021,264,P1Y,Clarity AI,31/12/2021 0:00,E,Turkey
+Anglo American PLC,4295896494,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,29500,31/12/2017,263,P1Y,Clarity AI,31/12/2017 0:00,E,United Kingdom
+Anglo American PLC,4295896494,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,35700,31/12/2018,263,P1Y,Clarity AI,31/12/2018 0:00,E,United Kingdom
+Anglo American PLC,4295896494,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,8224,31/12/2021,263,P1Y,Clarity AI,31/12/2021 0:00,E,United Kingdom
+NTPC Ltd,4295874173,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1279366.2,31/12/2020,263,P1Y,Clarity AI,,E,India
+Geely Automobile Holdings Ltd,4295871263,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,21.35,31/12/2017,263,P1Y,Clarity AI,,E,Cayman Islands
+China High Speed Transmission Equipment Group Co Ltd,4295864969,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.06819,31/12/2022,263,P1Y,Clarity AI,31/12/2022 0:00,E,Cayman Islands
+China High Speed Transmission Equipment Group Co Ltd,4295864969,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.01929,31/12/2017,263,P1Y,Clarity AI,,E,Cayman Islands
+Vale SA,4295859761,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,291800,31/12/2017,263,P1Y,Clarity AI,,E,Brazil
+Geely Automobile Holdings Ltd,4295871263,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,9.6,31/12/2019,263,P1Y,Clarity AI,,E,Cayman Islands
+Geely Automobile Holdings Ltd,4295871263,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,13.56,31/12/2020,263,P1Y,Clarity AI,,E,Cayman Islands
+Vale SA,4295859761,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,86300,31/12/2019,263,P1Y,Clarity AI,,E,Brazil
+Anglo American PLC,4295896494,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,28400,31/12/2019,263,P1Y,Clarity AI,31/12/2019 0:00,E,United Kingdom
+China High Speed Transmission Equipment Group Co Ltd,4295864969,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.01985,31/12/2018,263,P1Y,Clarity AI,31/12/2018 0:00,E,Cayman Islands
+NTPC Ltd,4295874173,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,959902,31/12/2018,263,P1Y,Clarity AI,,E,India
+NTPC Ltd,4295874173,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,832362.2,31/12/2017,263,P1Y,Clarity AI,31/12/2017 0:00,E,India
+Vale SA,4295859761,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,170700,31/12/2018,263,P1Y,Clarity AI,,E,Brazil
+Anglo American PLC,4295896494,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,13100,31/12/2020,263,P1Y,Clarity AI,,E,United Kingdom
+Vale SA,4295859761,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,50666,31/12/2021,263,P1Y,Clarity AI,31/12/2021 0:00,E,Brazil
+NTPC Ltd,4295874173,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1203030.042,31/12/2019,263,P1Y,Clarity AI,,E,India
+Geely Automobile Holdings Ltd,4295871263,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,26.52,31/12/2018,263,P1Y,Clarity AI,,E,Cayman Islands
+Geely Automobile Holdings Ltd,4295871263,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,23.93,31/12/2021,263,P1Y,Clarity AI,31/12/2021 0:00,E,Cayman Islands
+Anglo American PLC,4295896494,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,40100,31/12/2016,263,P1Y,Clarity AI,,E,United Kingdom
+China High Speed Transmission Equipment Group Co Ltd,4295864969,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.01224,31/12/2021,263,P1Y,Clarity AI,31/12/2021 0:00,E,Cayman Islands
+China High Speed Transmission Equipment Group Co Ltd,4295864969,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.01,31/12/2020,263,P1Y,Clarity AI,,E,Cayman Islands
+NTPC Ltd,4295874173,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1552253.67,31/12/2021,263,P1Y,Clarity AI,31/12/2021 0:00,E,India
+Imerys SA,4295867365,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3357,31/12/2021,262,P1Y,Clarity AI,31/12/2021 0:00,E,France
+Shell PLC,4295885039,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,74000,31/12/2018,262,P1Y,Clarity AI,,E,United Kingdom
+Johnson Controls International PLC,5043315501,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3.796,31/12/2021,262,P1Y,Clarity AI,31/12/2021 0:00,E,Ireland
+Imerys SA,4295867365,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2566,31/12/2022,262,P1Y,Clarity AI,31/12/2022 0:00,E,France
+Howmet Aerospace Inc,5001815447,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2.78,31/12/2020,262,P1Y,Clarity AI,,E,United States
+Teck Resources Ltd,4295861257,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3812,31/12/2020,262,P1Y,Clarity AI,,E,Canada
+REV Group Inc,5001215612,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.62,31/12/2020,262,P1Y,Clarity AI,,E,United States
+Shell PLC,4295885039,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,83000,31/12/2016,262,P1Y,Clarity AI,,E,United Kingdom
+Petronas Dagangan Bhd,4295883315,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,19.4,31/12/2017,262,P1Y,Clarity AI,,E,Malaysia
+Imerys SA,4295867365,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2509,31/12/2020,262,P1Y,Clarity AI,,E,France
+Howmet Aerospace Inc,5001815447,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3.03,31/12/2021,262,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+REV Group Inc,5001215612,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.98,31/12/2021,262,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+Shell PLC,4295885039,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,36000,31/12/2020,262,P1Y,Clarity AI,,E,United Kingdom
+Imerys SA,4295867365,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4572,31/12/2018,262,P1Y,Clarity AI,,E,France
+CRH PLC,4295874867,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,15900,31/12/2020,262,P1Y,Clarity AI,,E,Ireland
+Dow Inc,5000296881,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2233,31/12/2020,262,P1Y,Clarity AI,,E,United States
+Saudi Arabian Mining Company SJSC,4297987722,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,22616,31/12/2021,262,P1Y,Clarity AI,,E,Saudi Arabia
+Imerys SA,4295867365,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4621,31/12/2017,262,P1Y,Clarity AI,31/12/2017 0:00,E,France
+Petronas Dagangan Bhd,4295883315,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,19.6,31/12/2016,262,P1Y,Clarity AI,,E,Malaysia
+Teck Resources Ltd,4295861257,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4894.4,31/12/2017,262,P1Y,Clarity AI,,E,Canada
+Siemens Gamesa Renewable Energy SA,4295889283,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0,31/12/2022,262,P1Y,Clarity AI,31/12/2022 0:00,E,Spain
+Teck Resources Ltd,4295861257,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3659.4,31/12/2018,262,P1Y,Clarity AI,,E,Canada
+Shell PLC,4295885039,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,32000,31/12/2021,262,P1Y,Clarity AI,31/12/2021 0:00,E,United Kingdom
+Imerys SA,4295867365,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3767,31/12/2019,262,P1Y,Clarity AI,,E,France
+Teck Resources Ltd,4295861257,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3093.6,31/12/2021,262,P1Y,Clarity AI,31/12/2021 0:00,E,Canada
+CRH PLC,4295874867,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,13600,31/12/2017,262,P1Y,Clarity AI,,E,Ireland
+CRH PLC,4295874867,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,14600,31/12/2018,262,P1Y,Clarity AI,,E,Ireland
+Capricorn Energy PLC,4295894168,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,30.61,31/12/2020,262,P1Y,Clarity AI,,E,United Kingdom
+CRH PLC,4295874867,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,15900,31/12/2019,262,P1Y,Clarity AI,,E,Ireland
+Shell PLC,4295885039,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,81000,31/12/2017,262,P1Y,Clarity AI,,E,United Kingdom
+Teck Resources Ltd,4295861257,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4717.9,31/12/2016,262,P1Y,Clarity AI,,E,Canada
+Johnson Controls International PLC,5043315501,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6.19,31/12/2020,262,P1Y,Clarity AI,,E,Ireland
+Teck Resources Ltd,4295861257,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3853,31/12/2019,262,P1Y,Clarity AI,,E,Canada
+CRH PLC,4295874867,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,20900,31/12/2016,262,P1Y,Clarity AI,,E,Ireland
+Shell PLC,4295885039,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,65000,31/12/2019,262,P1Y,Clarity AI,,E,United Kingdom
+Petronas Dagangan Bhd,4295883315,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,20,31/12/2018,262,P1Y,Clarity AI,,E,Malaysia
+Capricorn Energy PLC,4295894168,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.82,31/12/2021,262,P1Y,Clarity AI,31/12/2021 0:00,E,United Kingdom
+Cabot Corp,4295903628,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,39870,31/12/2021,261,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+Synthomer PLC,4295894935,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,142.5,31/12/2018,261,P1Y,Clarity AI,,E,United Kingdom
+Yara International ASA,4295885383,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2000,31/12/2021,261,P1Y,Clarity AI,31/12/2021 0:00,E,Norway
+Yara International ASA,4295885383,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2100,31/12/2019,261,P1Y,Clarity AI,,E,Norway
+Cabot Corp,4295903628,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,43340,31/12/2018,261,P1Y,Clarity AI,,E,United States
+Airbus SE,4295884955,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,14,31/12/2020,261,P1Y,Clarity AI,,E,Netherlands
+Airbus SE,4295884955,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,17,31/12/2018,261,P1Y,Clarity AI,,E,Netherlands
+Yara International ASA,4295885383,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2000,31/12/2016,261,P1Y,Clarity AI,,E,Norway
+Cabot Corp,4295903628,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,40230,31/12/2019,261,P1Y,Clarity AI,,E,United States
+Cabot Corp,4295903628,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,34410,31/12/2020,261,P1Y,Clarity AI,,E,United States
+Yara International ASA,4295885383,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2100,31/12/2020,261,P1Y,Clarity AI,,E,Norway
+Cabot Corp,4295903628,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,35680,31/12/2022,261,P1Y,Clarity AI,31/12/2022 0:00,E,United States
+Synthomer PLC,4295894935,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,44.652,31/12/2022,261,P1Y,Clarity AI,31/12/2022 0:00,E,United Kingdom
+Cabot Corp,4295903628,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,43200,31/12/2017,261,P1Y,Clarity AI,,E,United States
+Hershey Co,4295904171,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2.15,31/12/2021,261,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+Synthomer PLC,4295894935,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,158.3,31/12/2017,261,P1Y,Clarity AI,,E,United Kingdom
+Synthomer PLC,4295894935,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,267,31/12/2020,261,P1Y,Clarity AI,,E,United Kingdom
+Hershey Co,4295904171,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2.5,31/12/2020,261,P1Y,Clarity AI,,E,United States
+Airbus SE,4295884955,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,15,31/12/2019,261,P1Y,Clarity AI,,E,Netherlands
+Synthomer PLC,4295894935,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,140.6,31/12/2016,261,P1Y,Clarity AI,,E,United Kingdom
+Synthomer PLC,4295894935,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,100.7,31/12/2019,261,P1Y,Clarity AI,,E,United Kingdom
+Yara International ASA,4295885383,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1981,31/12/2017,261,P1Y,Clarity AI,,E,Norway
+Cabot Corp,4295903628,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,41800,31/12/2016,261,P1Y,Clarity AI,,E,United States
+Hershey Co,4295904171,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2.4,31/12/2019,261,P1Y,Clarity AI,,E,United States
+Airbus SE,4295884955,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,15,31/12/2016,261,P1Y,Clarity AI,,E,Netherlands
+Yara International ASA,4295885383,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2800,31/12/2018,261,P1Y,Clarity AI,,E,Norway
+Barloworld Ltd,4295888508,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,89,31/12/2020,261,P1Y,Clarity AI,,E,South Africa
+Airbus SE,4295884955,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,15,31/12/2017,261,P1Y,Clarity AI,,E,Netherlands
+Hershey Co,4295904171,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1.58,31/12/2017,261,P1Y,Clarity AI,31/12/2017 0:00,E,United States
+IRPC PCL,4295892850,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2164,31/12/2016,260,P1Y,Clarity AI,,E,Thailand
+Baxter International Inc,4295903531,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,113,31/12/2021,260,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+Hannon Armstrong Sustainable Infrastructure Capital Inc,5038068972,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0,31/12/2021,260,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+IRPC PCL,4295892850,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1566,31/12/2018,260,P1Y,Clarity AI,,E,Thailand
+EQT Corp,4295903940,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,7.998,31/12/2022,260,P1Y,Clarity AI,31/12/2022 0:00,E,United States
+Mondi PLC,4295898932,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1276,31/12/2019,260,P1Y,Clarity AI,,E,United Kingdom
+IRPC PCL,4295892850,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1377,31/12/2020,260,P1Y,Clarity AI,,E,Thailand
+Sika AG,4295890591,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1.9,31/12/2022,260,P1Y,Clarity AI,31/12/2022 0:00,E,Switzerland
+Mondi PLC,4295898932,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1985,31/12/2016,260,P1Y,Clarity AI,,E,United Kingdom
+Zijin Mining Group Co Ltd,4295865468,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1483.64,31/12/2021,260,P1Y,Clarity AI,31/12/2021 0:00,E,China
+Novatek PAO,4295886976,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,77.4,31/12/2020,260,P1Y,Clarity AI,,E,Russian Federation
+Eni SpA,4295875633,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,8368,31/12/2017,260,P1Y,Clarity AI,31/12/2017 0:00,E,Italy
+Mondi PLC,4295898932,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1567,31/12/2018,260,P1Y,Clarity AI,,E,United Kingdom
+IRPC PCL,4295892850,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2154,31/12/2017,260,P1Y,Clarity AI,31/12/2017 0:00,E,Thailand
+Mondi PLC,4295898932,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1242,31/12/2021,260,P1Y,Clarity AI,31/12/2021 0:00,E,United Kingdom
+Orbia Advance Corporation SAB de CV,4295884319,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1181,31/12/2019,260,P1Y,Clarity AI,31/12/2019 0:00,E,Mexico
+Innolux Corp,4295892065,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,49.1,31/12/2021,260,P1Y,Clarity AI,31/12/2021 0:00,E,"Taiwan, China"
+Orbia Advance Corporation SAB de CV,4295884319,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,952,31/12/2020,260,P1Y,Clarity AI,,E,Mexico
+DRDGOLD Ltd,4295889105,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3158,31/12/2018,260,P1Y,Clarity AI,,E,South Africa
+Innolux Corp,4295892065,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,44.9,31/12/2018,260,P1Y,Clarity AI,,E,"Taiwan, China"
+Baxter International Inc,4295903531,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,132,31/12/2016,260,P1Y,Clarity AI,,E,United States
+Mondi PLC,4295898932,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1447,31/12/2017,260,P1Y,Clarity AI,,E,United Kingdom
+Carlsberg A/S,4295866057,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,731,31/12/2017,260,P1Y,Clarity AI,31/12/2017 0:00,E,Denmark
+Orbia Advance Corporation SAB de CV,4295884319,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1257,31/12/2017,260,P1Y,Clarity AI,31/12/2017 0:00,E,Mexico
+Carlsberg A/S,4295866057,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,446,31/12/2019,260,P1Y,Clarity AI,,E,Denmark
+DRDGOLD Ltd,4295889105,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3105,31/12/2017,260,P1Y,Clarity AI,31/12/2017 0:00,E,South Africa
+Eni SpA,4295875633,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,18500,31/12/2021,260,P1Y,Clarity AI,31/12/2021 0:00,E,Italy
+Novatek PAO,4295886976,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,20.14,31/12/2016,260,P1Y,Clarity AI,,E,Russian Federation
+Carlsberg A/S,4295866057,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,509,31/12/2018,260,P1Y,Clarity AI,,E,Denmark
+DRDGOLD Ltd,4295889105,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3400,31/12/2021,260,P1Y,Clarity AI,31/12/2021 0:00,E,South Africa
+Carlsberg A/S,4295866057,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,815,31/12/2016,260,P1Y,Clarity AI,,E,Denmark
+Novatek PAO,4295886976,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,29.765,31/12/2017,260,P1Y,Clarity AI,,E,Russian Federation
+Eni SpA,4295875633,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,15300,31/12/2020,260,P1Y,Clarity AI,,E,Italy
+Baxter International Inc,4295903531,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,131,31/12/2018,260,P1Y,Clarity AI,,E,United States
+Innolux Corp,4295892065,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,30.79,31/12/2019,260,P1Y,Clarity AI,,E,"Taiwan, China"
+Carlsberg A/S,4295866057,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,422,31/12/2020,260,P1Y,Clarity AI,,E,Denmark
+Baxter International Inc,4295903531,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,134,31/12/2020,260,P1Y,Clarity AI,,E,United States
+IRPC PCL,4295892850,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1147,31/12/2021,260,P1Y,Clarity AI,31/12/2021 0:00,E,Thailand
+Carlsberg A/S,4295866057,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,411,31/12/2021,260,P1Y,Clarity AI,31/12/2021 0:00,E,Denmark
+Innolux Corp,4295892065,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,46.2,31/12/2016,260,P1Y,Clarity AI,,E,"Taiwan, China"
+Baxter International Inc,4295903531,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,170,31/12/2017,260,P1Y,Clarity AI,,E,United States
+Novatek PAO,4295886976,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,76,31/12/2021,260,P1Y,Clarity AI,31/12/2021 0:00,E,Russian Federation
+EQT Corp,4295903940,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3.77,31/12/2020,260,P1Y,Clarity AI,,E,United States
+Mondi PLC,4295898932,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1399,31/12/2022,260,P1Y,Clarity AI,31/12/2022 0:00,E,United Kingdom
+Novatek PAO,4295886976,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,33,31/12/2018,260,P1Y,Clarity AI,,E,Russian Federation
+DRDGOLD Ltd,4295889105,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3126,31/12/2020,260,P1Y,Clarity AI,,E,South Africa
+Orbia Advance Corporation SAB de CV,4295884319,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1075,31/12/2021,260,P1Y,Clarity AI,31/12/2021 0:00,E,Mexico
+IRPC PCL,4295892850,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1800,31/12/2019,260,P1Y,Clarity AI,,E,Thailand
+EQT Corp,4295903940,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,7,31/12/2021,260,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+DRDGOLD Ltd,4295889105,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3495,31/12/2019,260,P1Y,Clarity AI,,E,South Africa
+Mondi PLC,4295898932,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1059,31/12/2020,260,P1Y,Clarity AI,,E,United Kingdom
+Innolux Corp,4295892065,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,38.3,31/12/2017,260,P1Y,Clarity AI,31/12/2017 0:00,E,"Taiwan, China"
+Orbia Advance Corporation SAB de CV,4295884319,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1355,31/12/2018,260,P1Y,Clarity AI,,E,Mexico
+Zijin Mining Group Co Ltd,4295865468,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1344.86,31/12/2020,260,P1Y,Clarity AI,,E,China
+DRDGOLD Ltd,4295889105,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3151,31/12/2022,260,P1Y,Clarity AI,31/12/2022 0:00,E,South Africa
+Baxter International Inc,4295903531,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,126,31/12/2019,260,P1Y,Clarity AI,,E,United States
+Innolux Corp,4295892065,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,46.4,31/12/2020,260,P1Y,Clarity AI,,E,"Taiwan, China"
+Conocophillips,4295903051,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4800,31/12/2018,259,P1Y,Clarity AI,,E,United States
+Stepan Co,4295904979,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,39,31/12/2020,259,P1Y,Clarity AI,,E,United States
+BRF SA,4295859753,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,130.39,31/12/2022,259,P1Y,Clarity AI,31/12/2022 0:00,E,Brazil
+Conocophillips,4295903051,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4200,31/12/2017,259,P1Y,Clarity AI,,E,United States
+Conocophillips,4295903051,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2900,31/12/2021,259,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+BRF SA,4295859753,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,262.61,31/12/2019,259,P1Y,Clarity AI,,E,Brazil
+BRF SA,4295859753,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,140.94,31/12/2018,259,P1Y,Clarity AI,,E,Brazil
+Stepan Co,4295904979,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,52.15,31/12/2021,259,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+Conocophillips,4295903051,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2700,31/12/2020,259,P1Y,Clarity AI,,E,United States
+Conocophillips,4295903051,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,7300,31/12/2016,259,P1Y,Clarity AI,,E,United States
+BRF SA,4295859753,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,208.62,31/12/2020,259,P1Y,Clarity AI,,E,Brazil
+Huabao International Holdings Ltd,4295871738,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,12.1522,31/12/2019,258,P1Y,Clarity AI,,E,Bermuda
+Capital Power Corp,4298491670,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,20565,31/12/2020,258,P1Y,Clarity AI,,E,Canada
+Packaging Corp of America,4295912229,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2400,31/12/2021,258,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+Lundin Mining Corp,5000000011,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.772,31/12/2021,258,P1Y,Clarity AI,31/12/2021 0:00,E,Canada
+Packaging Corp of America,4295912229,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1500,31/12/2019,258,P1Y,Clarity AI,,E,United States
+Solvay SA,4295859421,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3449,31/12/2021,258,P1Y,Clarity AI,31/12/2021 0:00,E,Belgium
+Capital Power Corp,4298491670,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,17926,31/12/2022,258,P1Y,Clarity AI,31/12/2022 0:00,E,Canada
+Capital Power Corp,4298491670,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,21900,31/12/2017,258,P1Y,Clarity AI,,E,Canada
+Huabao International Holdings Ltd,4295871738,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,10.269,31/12/2021,258,P1Y,Clarity AI,31/12/2021 0:00,E,Bermuda
+Arkema SA,4295867361,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2020,31/12/2021,258,P1Y,Clarity AI,31/12/2021 0:00,E,France
+Wharf Real Estate Investment Company Ltd,5057798282,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.0364,31/12/2022,258,P1Y,Clarity AI,31/12/2022 0:00,E,"Hong Kong SAR, China"
+Capital Power Corp,4298491670,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,15500,31/12/2021,258,P1Y,Clarity AI,31/12/2021 0:00,E,Canada
+Solvay SA,4295859421,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4573,31/12/2017,258,P1Y,Clarity AI,,E,Belgium
+Wharf Real Estate Investment Company Ltd,5057798282,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.0384,31/12/2021,258,P1Y,Clarity AI,31/12/2021 0:00,E,"Hong Kong SAR, China"
+Huabao International Holdings Ltd,4295871738,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,26.23,31/12/2020,258,P1Y,Clarity AI,,E,Bermuda
+Packaging Corp of America,4295912229,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2000,31/12/2017,258,P1Y,Clarity AI,,E,United States
+Packaging Corp of America,4295912229,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1400,31/12/2018,258,P1Y,Clarity AI,,E,United States
+Solvay SA,4295859421,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2900,31/12/2020,258,P1Y,Clarity AI,,E,Belgium
+Solvay SA,4295859421,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2888,31/12/2019,258,P1Y,Clarity AI,,E,Belgium
+Packaging Corp of America,4295912229,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1900,31/12/2016,258,P1Y,Clarity AI,,E,United States
+Arkema SA,4295867361,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1260,31/12/2020,258,P1Y,Clarity AI,,E,France
+Capital Power Corp,4298491670,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,20666,31/12/2018,258,P1Y,Clarity AI,,E,Canada
+Solvay SA,4295859421,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,5343,31/12/2016,258,P1Y,Clarity AI,,E,Belgium
+Capital Power Corp,4298491670,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,21600,31/12/2016,258,P1Y,Clarity AI,,E,Canada
+Capital Power Corp,4298491670,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,19981,31/12/2019,258,P1Y,Clarity AI,,E,Canada
+UPM-Kymmene Oyj,4295866353,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1100,31/12/2019,258,P1Y,Clarity AI,,E,Finland
+UPM-Kymmene Oyj,4295866353,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1000,31/12/2020,258,P1Y,Clarity AI,,E,Finland
+UPM-Kymmene Oyj,4295866353,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,880,31/12/2022,258,P1Y,Clarity AI,31/12/2022 0:00,E,Finland
+Solvay SA,4295859421,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3750,31/12/2018,258,P1Y,Clarity AI,,E,Belgium
+Packaging Corp of America,4295912229,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2100,31/12/2020,258,P1Y,Clarity AI,,E,United States
+Huabao International Holdings Ltd,4295871738,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,25.5521,31/12/2018,258,P1Y,Clarity AI,,E,Bermuda
+UPM-Kymmene Oyj,4295866353,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,820,31/12/2021,258,P1Y,Clarity AI,31/12/2021 0:00,E,Finland
+MOL Magyar Olajes Gazipari Nyrt,4295872095,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,8996,31/12/2017,257,P1Y,Clarity AI,,E,Hungary
+Havells India Ltd,4295873645,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.15,31/12/2019,257,P1Y,Clarity AI,,E,India
+Shun Tak Holdings Ltd,4295871257,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,95.164,31/12/2019,257,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+Kao Corp,4295877427,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,72,31/12/2016,257,P1Y,Clarity AI,,E,Japan
+Impala Platinum Holdings Ltd,4295889091,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,56383,31/12/2018,257,P1Y,Clarity AI,,E,South Africa
+Kao Corp,4295877427,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,168,31/12/2018,257,P1Y,Clarity AI,,E,Japan
+Havells India Ltd,4295873645,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.2,31/12/2017,257,P1Y,Clarity AI,31/12/2017 0:00,E,India
+MOL Magyar Olajes Gazipari Nyrt,4295872095,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3409,31/12/2021,257,P1Y,Clarity AI,31/12/2021 0:00,E,Hungary
+Havells India Ltd,4295873645,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.22,31/12/2016,257,P1Y,Clarity AI,31/12/2016 0:00,E,India
+PTT Exploration and Production PCL,4295892969,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,329,31/12/2019,257,P1Y,Clarity AI,31/12/2019 0:00,E,Thailand
+A2A SpA,5000005309,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,539.4,31/12/2020,257,P1Y,Clarity AI,,E,Italy
+A2A SpA,5000005309,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3041,31/12/2021,257,P1Y,Clarity AI,31/12/2021 0:00,E,Italy
+Havells India Ltd,4295873645,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.2,31/12/2021,257,P1Y,Clarity AI,31/12/2021 0:00,E,India
+Kao Corp,4295877427,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,76,31/12/2017,257,P1Y,Clarity AI,,E,Japan
+PTT Exploration and Production PCL,4295892969,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,416,31/12/2018,257,P1Y,Clarity AI,31/12/2018 0:00,E,Thailand
+Kao Corp,4295877427,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,53,31/12/2020,257,P1Y,Clarity AI,,E,Japan
+Gildan Activewear Inc,5000631312,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,498.8,31/12/2017,257,P1Y,Clarity AI,,E,Canada
+Gildan Activewear Inc,5000631312,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,517.2,31/12/2018,257,P1Y,Clarity AI,,E,Canada
+Biogen Inc,4295906748,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2.9,31/12/2020,257,P1Y,Clarity AI,,E,United States
+Eva Airways Corp,4295892112,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,31,31/12/2022,257,P1Y,Clarity AI,31/12/2022 0:00,E,"Taiwan, China"
+Kimberly-Clark Corp,4295904369,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1319,31/12/2019,257,P1Y,Clarity AI,,E,United States
+PTT Exploration and Production PCL,4295892969,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,418,31/12/2017,257,P1Y,Clarity AI,31/12/2017 0:00,E,Thailand
+Gildan Activewear Inc,5000631312,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,552.5,31/12/2016,257,P1Y,Clarity AI,,E,Canada
+MOL Magyar Olajes Gazipari Nyrt,4295872095,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3835,31/12/2020,257,P1Y,Clarity AI,,E,Hungary
+Impala Platinum Holdings Ltd,4295889091,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,57460,31/12/2016,257,P1Y,Clarity AI,,E,South Africa
+Havells India Ltd,4295873645,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.16,31/12/2018,257,P1Y,Clarity AI,,E,India
+MOL Magyar Olajes Gazipari Nyrt,4295872095,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6367,31/12/2019,257,P1Y,Clarity AI,,E,Hungary
+Impala Platinum Holdings Ltd,4295889091,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,57482,31/12/2017,257,P1Y,Clarity AI,,E,South Africa
+Gildan Activewear Inc,5000631312,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,320.7,31/12/2019,257,P1Y,Clarity AI,,E,Canada
+PTT Exploration and Production PCL,4295892969,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,610,31/12/2016,257,P1Y,Clarity AI,31/12/2016 0:00,E,Thailand
+Impala Platinum Holdings Ltd,4295889091,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,34847,31/12/2022,257,P1Y,Clarity AI,31/12/2022 0:00,E,South Africa
+Gildan Activewear Inc,5000631312,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,338,31/12/2021,257,P1Y,Clarity AI,31/12/2021 0:00,E,Canada
+Shun Tak Holdings Ltd,4295871257,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.509,31/12/2022,257,P1Y,Clarity AI,31/12/2022 0:00,E,"Hong Kong SAR, China"
+Kimberly-Clark Corp,4295904369,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1638,31/12/2017,257,P1Y,Clarity AI,31/12/2017 0:00,E,United States
+Havells India Ltd,4295873645,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.18,31/12/2020,257,P1Y,Clarity AI,,E,India
+Impala Platinum Holdings Ltd,4295889091,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,59999,31/12/2019,257,P1Y,Clarity AI,,E,South Africa
+Hysan Development Co Ltd,4295871280,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6.00E-05,31/12/2021,257,P1Y,Clarity AI,31/12/2021 0:00,E,"Hong Kong SAR, China"
+Petroleo Brasileiro SA Petrobras,4295859763,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,92294.52,31/12/2021,257,P1Y,Clarity AI,31/12/2021 0:00,E,Brazil
+Petroleo Brasileiro SA Petrobras,4295859763,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,135500,31/12/2017,257,P1Y,Clarity AI,31/12/2017 0:00,E,Brazil
+Hysan Development Co Ltd,4295871280,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0,31/12/2020,257,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+Impala Platinum Holdings Ltd,4295889091,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,64173,31/12/2021,257,P1Y,Clarity AI,31/12/2021 0:00,E,South Africa
+MOL Magyar Olajes Gazipari Nyrt,4295872095,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,8131,31/12/2018,257,P1Y,Clarity AI,,E,Hungary
+Kimberly-Clark Corp,4295904369,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1689,31/12/2016,257,P1Y,Clarity AI,,E,United States
+Kao Corp,4295877427,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,47.9,31/12/2021,257,P1Y,Clarity AI,31/12/2021 0:00,E,Japan
+Biogen Inc,4295906748,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1.9,31/12/2021,257,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+Asian Paints Ltd,4295873051,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1.07E-05,31/12/2023,257,P1Y,Clarity AI,31/12/2023 0:00,E,India
+Shun Tak Holdings Ltd,4295871257,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.664,31/12/2021,257,P1Y,Clarity AI,31/12/2021 0:00,E,"Hong Kong SAR, China"
+Kao Corp,4295877427,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,125,31/12/2019,257,P1Y,Clarity AI,,E,Japan
+Shun Tak Holdings Ltd,4295871257,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,8.36,31/12/2020,257,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+Gildan Activewear Inc,5000631312,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,343.9,31/12/2020,257,P1Y,Clarity AI,,E,Canada
+Kimberly-Clark Corp,4295904369,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,42,31/12/2020,257,P1Y,Clarity AI,,E,United States
+MOL Magyar Olajes Gazipari Nyrt,4295872095,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,7077,31/12/2016,257,P1Y,Clarity AI,,E,Hungary
+Shun Tak Holdings Ltd,4295871257,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,125.046,31/12/2017,257,P1Y,Clarity AI,31/12/2017 0:00,E,"Hong Kong SAR, China"
+PTT Exploration and Production PCL,4295892969,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,882,31/12/2021,257,P1Y,Clarity AI,31/12/2021 0:00,E,Thailand
+Kimberly-Clark Corp,4295904369,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1692,31/12/2018,257,P1Y,Clarity AI,,E,United States
+Infineon Technologies AG,4295870063,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2.33,31/12/2018,256,P1Y,Clarity AI,,E,Germany
+Infineon Technologies AG,4295870063,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6.32,31/12/2021,256,P1Y,Clarity AI,31/12/2021 0:00,E,Germany
+Infineon Technologies AG,4295870063,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6.42,31/12/2016,256,P1Y,Clarity AI,,E,Germany
+Johnson & Johnson,4295904341,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,53,31/12/2021,256,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+ZTE Corp,4295865240,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.18,31/12/2021,256,P1Y,Clarity AI,31/12/2021 0:00,E,China
+Infineon Technologies AG,4295870063,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6.03,31/12/2019,256,P1Y,Clarity AI,,E,Germany
+Infineon Technologies AG,4295870063,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6.176,31/12/2017,256,P1Y,Clarity AI,,E,Germany
+Infineon Technologies AG,4295870063,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3.65,31/12/2020,256,P1Y,Clarity AI,,E,Germany
+NVIDIA Corp,4295914405,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.08,31/12/2020,256,P1Y,Clarity AI,,E,United States
+Sunrun Inc,5000454292,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6250,31/12/2020,256,P1Y,Clarity AI,,E,United States
+ZTE Corp,4295865240,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.33,31/12/2020,256,P1Y,Clarity AI,,E,China
+Johnson & Johnson,4295904341,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,65,31/12/2020,256,P1Y,Clarity AI,,E,United States
+ING Bank Slaski SA,4295886387,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.05209,31/12/2022,256,P1Y,Clarity AI,31/12/2022 0:00,E,Poland
+NVIDIA Corp,4295914405,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.16,31/12/2021,256,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+Johnson & Johnson,4295904341,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,57,31/12/2022,256,P1Y,Clarity AI,31/12/2022 0:00,E,United States
+Suncor Energy Inc,4295861310,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,20500,31/12/2018,255,P1Y,Clarity AI,,E,Canada
+Vale Indonesia Tbk PT,4295874391,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,50666,31/12/2021,255,P1Y,Clarity AI,31/12/2021 0:00,E,Indonesia
+ITC Ltd,4295872425,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,887,31/12/2020,255,P1Y,Clarity AI,,E,India
+Holmen AB,4295890003,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,49,31/12/2022,255,P1Y,Clarity AI,31/12/2022 0:00,E,Sweden
+ITC Ltd,4295872425,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,985,31/12/2019,255,P1Y,Clarity AI,,E,India
+Alcoa Corp,5051045063,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,47500,31/12/2017,255,P1Y,Clarity AI,31/12/2017 0:00,E,United States
+Suncor Energy Inc,4295861310,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,21100,31/12/2016,255,P1Y,Clarity AI,,E,Canada
+Holmen AB,4295890003,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,59,31/12/2019,255,P1Y,Clarity AI,,E,Sweden
+Holmen AB,4295890003,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,48,31/12/2017,255,P1Y,Clarity AI,,E,Sweden
+ITC Ltd,4295872425,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1239,31/12/2016,255,P1Y,Clarity AI,,E,India
+Suncor Energy Inc,4295861310,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,20510,31/12/2017,255,P1Y,Clarity AI,31/12/2017 0:00,E,Canada
+Suncor Energy Inc,4295861310,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,20776,31/12/2019,255,P1Y,Clarity AI,,E,Canada
+Holmen AB,4295890003,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,41,31/12/2016,255,P1Y,Clarity AI,,E,Sweden
+Vale Indonesia Tbk PT,4295874391,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,57224.77,31/12/2017,255,P1Y,Clarity AI,31/12/2017 0:00,E,Indonesia
+Chevron Corp,4295903744,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,70000,31/12/2022,255,P1Y,Clarity AI,31/12/2022 0:00,E,United States
+Chevron Corp,4295903744,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,36000,31/12/2019,255,P1Y,Clarity AI,,E,United States
+Suncor Energy Inc,4295861310,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,20150,31/12/2021,255,P1Y,Clarity AI,31/12/2021 0:00,E,Canada
+Chevron Corp,4295903744,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,40000,31/12/2018,255,P1Y,Clarity AI,,E,United States
+Holmen AB,4295890003,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,56,31/12/2018,255,P1Y,Clarity AI,,E,Sweden
+Holmen AB,4295890003,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,50,31/12/2021,255,P1Y,Clarity AI,31/12/2021 0:00,E,Sweden
+Holmen AB,4295890003,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,64,31/12/2020,255,P1Y,Clarity AI,,E,Sweden
+Chevron Corp,4295903744,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,52000,31/12/2017,255,P1Y,Clarity AI,,E,United States
+ITC Ltd,4295872425,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,989,31/12/2018,255,P1Y,Clarity AI,,E,India
+Alcoa Corp,5051045063,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,50.3,31/12/2020,255,P1Y,Clarity AI,,E,United States
+Vale Indonesia Tbk PT,4295874391,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,57320,31/12/2020,255,P1Y,Clarity AI,,E,Indonesia
+ITC Ltd,4295872425,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1087,31/12/2017,255,P1Y,Clarity AI,31/12/2017 0:00,E,India
+Alcoa Corp,5051045063,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,44900,31/12/2019,255,P1Y,Clarity AI,,E,United States
+Chevron Corp,4295903744,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,66000,31/12/2016,255,P1Y,Clarity AI,,E,United States
+Hess Corp,4295903355,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1711,31/12/2019,254,P1Y,Clarity AI,,E,United States
+Nexteer Automotive Group Ltd,5040049273,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.25,31/12/2020,254,P1Y,Clarity AI,,E,United States
+Newcrest Mining Ltd,4295857460,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6967.911,31/12/2022,254,P1Y,Clarity AI,31/12/2022 0:00,E,Australia
+TotalEnergies SE,5001170594,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,34000,31/12/2020,254,P1Y,Clarity AI,,E,France
+Newcrest Mining Ltd,4295857460,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,5786.69,31/12/2020,254,P1Y,Clarity AI,,E,Australia
+Hess Corp,4295903355,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2987,31/12/2017,254,P1Y,Clarity AI,31/12/2017 0:00,E,United States
+Nufarm Ltd,4295858843,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1,31/12/2021,254,P1Y,Clarity AI,31/12/2021 0:00,E,Australia
+Qualcomm Inc,4295907706,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.32,31/12/2018,254,P1Y,Clarity AI,,E,United States
+Hess Corp,4295903355,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,417,31/12/2021,254,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+Nufarm Ltd,4295858843,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1,31/12/2019,254,P1Y,Clarity AI,,E,Australia
+Nufarm Ltd,4295858843,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1,31/12/2017,254,P1Y,Clarity AI,,E,Australia
+TotalEnergies SE,5001170594,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,47000,31/12/2017,254,P1Y,Clarity AI,,E,France
+Hess Corp,4295903355,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3804,31/12/2016,254,P1Y,Clarity AI,,E,United States
+Qualcomm Inc,4295907706,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.33,31/12/2020,254,P1Y,Clarity AI,,E,United States
+Nufarm Ltd,4295858843,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1,31/12/2018,254,P1Y,Clarity AI,,E,Australia
+TotalEnergies SE,5001170594,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,48000,31/12/2018,254,P1Y,Clarity AI,,E,France
+American Airlines Group Inc,4295903254,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1.7,31/12/2021,254,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+Newcrest Mining Ltd,4295857460,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4490.406,31/12/2019,254,P1Y,Clarity AI,,E,Australia
+Qualcomm Inc,4295907706,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.3,31/12/2016,254,P1Y,Clarity AI,,E,United States
+TotalEnergies SE,5001170594,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,16000,31/12/2021,254,P1Y,Clarity AI,31/12/2021 0:00,E,France
+Uni-President Enterprises Corp,4295891064,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,14.85,31/12/2020,254,P1Y,Clarity AI,,E,"Taiwan, China"
+Newcrest Mining Ltd,4295857460,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,5992.001,31/12/2021,254,P1Y,Clarity AI,31/12/2021 0:00,E,Australia
+Uni-President Enterprises Corp,4295891064,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,18.5,31/12/2017,254,P1Y,Clarity AI,31/12/2017 0:00,E,"Taiwan, China"
+Qualcomm Inc,4295907706,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.34,31/12/2019,254,P1Y,Clarity AI,,E,United States
+Larsen and Toubro Ltd,4295872412,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1.56,31/12/2020,254,P1Y,Clarity AI,,E,India
+Hess Corp,4295903355,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1655,31/12/2018,254,P1Y,Clarity AI,,E,United States
+Qualcomm Inc,4295907706,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.34,31/12/2017,254,P1Y,Clarity AI,,E,United States
+Hewlett Packard Enterprise Co,5046390586,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,18.83,31/12/2021,254,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+Larsen and Toubro Ltd,4295872412,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,7.01,31/12/2017,254,P1Y,Clarity AI,31/12/2017 0:00,E,India
+Larsen and Toubro Ltd,4295872412,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1.2,31/12/2018,254,P1Y,Clarity AI,,E,India
+Nufarm Ltd,4295858843,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1,31/12/2020,254,P1Y,Clarity AI,,E,Australia
+TotalEnergies SE,5001170594,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,39000,31/12/2019,254,P1Y,Clarity AI,,E,France
+American Airlines Group Inc,4295903254,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2.4,31/12/2022,254,P1Y,Clarity AI,31/12/2022 0:00,E,United States
+Uni-President Enterprises Corp,4295891064,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,5.67,31/12/2021,254,P1Y,Clarity AI,31/12/2021 0:00,E,"Taiwan, China"
+Uni-President Enterprises Corp,4295891064,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.08,31/12/2022,254,P1Y,Clarity AI,31/12/2022 0:00,E,"Taiwan, China"
+Larsen and Toubro Ltd,4295872412,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.97,31/12/2019,254,P1Y,Clarity AI,,E,India
+Hess Corp,4295903355,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,500,31/12/2020,254,P1Y,Clarity AI,,E,United States
+American Airlines Group Inc,4295903254,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1.9,31/12/2020,254,P1Y,Clarity AI,,E,United States
+Nexteer Automotive Group Ltd,5040049273,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.248114824,31/12/2021,254,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+Ambuja Cements Ltd,4295873304,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4466,31/12/2016,253,P1Y,Clarity AI,,E,India
+Compagnie de Saint Gobain SA,4295867362,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,18229,31/12/2017,253,P1Y,Clarity AI,31/12/2017 0:00,E,France
+YPF SA,4295856055,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6281,31/12/2017,253,P1Y,Clarity AI,,E,Argentina
+Alpek SAB de CV,4296881366,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,263,31/12/2018,253,P1Y,Clarity AI,,E,Mexico
+Dupont De Nemours Inc,5050895314,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,8,31/12/2021,253,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+Viscofan SA,4295889294,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,29,31/12/2021,253,P1Y,Clarity AI,31/12/2021 0:00,E,Spain
+Compagnie de Saint Gobain SA,4295867362,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,8789,31/12/2022,253,P1Y,Clarity AI,31/12/2022 0:00,E,France
+LIXIL Corp,4295876396,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,37,31/12/2017,253,P1Y,Clarity AI,,E,Japan
+LIXIL Corp,4295876396,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,59,31/12/2019,253,P1Y,Clarity AI,,E,Japan
+MTU Aero Engines AG,4295868681,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,16,31/12/2021,253,P1Y,Clarity AI,31/12/2021 0:00,E,Germany
+YPF SA,4295856055,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6116,31/12/2021,253,P1Y,Clarity AI,31/12/2021 0:00,E,Argentina
+LIXIL Corp,4295876396,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,54,31/12/2018,253,P1Y,Clarity AI,,E,Japan
+CNH Industrial NV,5039844145,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,73,31/12/2017,253,P1Y,Clarity AI,31/12/2017 0:00,E,Netherlands
+YPF SA,4295856055,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6307,31/12/2016,253,P1Y,Clarity AI,,E,Argentina
+Harmony Gold Mining Company Ltd,4295889088,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1.97,31/12/2021,253,P1Y,Clarity AI,31/12/2021 0:00,E,South Africa
+MTU Aero Engines AG,4295868681,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,16,31/12/2022,253,P1Y,Clarity AI,31/12/2022 0:00,E,Germany
+Edison SpA,4295875687,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,924,31/12/2018,253,P1Y,Clarity AI,,E,Italy
+Ambuja Cements Ltd,4295873304,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1029,31/12/2018,253,P1Y,Clarity AI,,E,India
+YPF SA,4295856055,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6390,31/12/2018,253,P1Y,Clarity AI,,E,Argentina
+Nokia Oyj,4295866480,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.5,31/12/2021,253,P1Y,Clarity AI,31/12/2021 0:00,E,Finland
+YPF SA,4295856055,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6710,31/12/2020,253,P1Y,Clarity AI,,E,Argentina
+Edison SpA,4295875687,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1036,31/12/2017,253,P1Y,Clarity AI,,E,Italy
+LIXIL Corp,4295876396,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,115,31/12/2020,253,P1Y,Clarity AI,,E,Japan
+MTU Aero Engines AG,4295868681,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,53,31/12/2017,253,P1Y,Clarity AI,31/12/2017 0:00,E,Germany
+Alpek SAB de CV,4296881366,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,94,31/12/2022,253,P1Y,Clarity AI,31/12/2022 0:00,E,Mexico
+Edison SpA,4295875687,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,718,31/12/2019,253,P1Y,Clarity AI,,E,Italy
+Bharat Petroleum Corporation Ltd,4295872490,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,8797.21,31/12/2020,253,P1Y,Clarity AI,,E,India
+Alpek SAB de CV,4296881366,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,263,31/12/2020,253,P1Y,Clarity AI,,E,Mexico
+Edison SpA,4295875687,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,603,31/12/2021,253,P1Y,Clarity AI,31/12/2021 0:00,E,Italy
+Compagnie de Saint Gobain SA,4295867362,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,10276,31/12/2020,253,P1Y,Clarity AI,,E,France
+Orron Energy AB,4295890400,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,25.8,31/12/2017,253,P1Y,Clarity AI,31/12/2017 0:00,E,Sweden
+Ambuja Cements Ltd,4295873304,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,974,31/12/2020,253,P1Y,Clarity AI,,E,India
+Edison SpA,4295875687,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,560,31/12/2020,253,P1Y,Clarity AI,,E,Italy
+LIXIL Corp,4295876396,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,60,31/12/2021,253,P1Y,Clarity AI,31/12/2021 0:00,E,Japan
+MTU Aero Engines AG,4295868681,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,53,31/12/2016,253,P1Y,Clarity AI,,E,Germany
+Viscofan SA,4295889294,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,32,31/12/2022,253,P1Y,Clarity AI,31/12/2022 0:00,E,Spain
+Green Plains Inc,4295899267,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,98,31/12/2020,253,P1Y,Clarity AI,,E,United States
+Orron Energy AB,4295890400,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,7,31/12/2020,253,P1Y,Clarity AI,,E,Sweden
+Alpek SAB de CV,4296881366,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,30,31/12/2021,253,P1Y,Clarity AI,31/12/2021 0:00,E,Mexico
+Orron Energy AB,4295890400,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,25.8,31/12/2018,253,P1Y,Clarity AI,,E,Sweden
+Dupont De Nemours Inc,5050895314,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,340,31/12/2020,253,P1Y,Clarity AI,,E,United States
+Outokumpu Oyj,4295866315,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,380,31/12/2016,253,P1Y,Clarity AI,,E,Finland
+Nokia Oyj,4295866480,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4.3,31/12/2017,253,P1Y,Clarity AI,31/12/2017 0:00,E,Finland
+Green Plains Inc,4295899267,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,87,31/12/2021,253,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+Orron Energy AB,4295890400,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,8.2,31/12/2019,253,P1Y,Clarity AI,31/12/2019 0:00,E,Sweden
+Alpek SAB de CV,4296881366,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,193,31/12/2017,253,P1Y,Clarity AI,31/12/2017 0:00,E,Mexico
+Harmony Gold Mining Company Ltd,4295889088,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,410,31/12/2020,253,P1Y,Clarity AI,,E,South Africa
+MTU Aero Engines AG,4295868681,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,31,31/12/2020,253,P1Y,Clarity AI,,E,Germany
+Outokumpu Oyj,4295866315,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,454,31/12/2018,253,P1Y,Clarity AI,,E,Finland
+Alpek SAB de CV,4296881366,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,277,31/12/2016,253,P1Y,Clarity AI,,E,Mexico
+Alpek SAB de CV,4296881366,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,94.7,31/12/2019,253,P1Y,Clarity AI,,E,Mexico
+Outokumpu Oyj,4295866315,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,330,31/12/2020,253,P1Y,Clarity AI,,E,Finland
+MTU Aero Engines AG,4295868681,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,51,31/12/2018,253,P1Y,Clarity AI,,E,Germany
+CNH Industrial NV,5039844145,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,57.8,31/12/2021,253,P1Y,Clarity AI,31/12/2021 0:00,E,Netherlands
+CNH Industrial NV,5039844145,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,38.3,31/12/2020,253,P1Y,Clarity AI,,E,Netherlands
+Outokumpu Oyj,4295866315,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,452,31/12/2017,253,P1Y,Clarity AI,,E,Finland
+Compagnie de Saint Gobain SA,4295867362,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,8372,31/12/2021,253,P1Y,Clarity AI,31/12/2021 0:00,E,France
+Winbond Electronics Corp,4295891506,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.42,31/12/2021,253,P1Y,Clarity AI,31/12/2021 0:00,E,"Taiwan, China"
+MTU Aero Engines AG,4295868681,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,36,31/12/2019,253,P1Y,Clarity AI,,E,Germany
+Ambuja Cements Ltd,4295873304,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3239,31/12/2017,253,P1Y,Clarity AI,,E,India
+Bharat Petroleum Corporation Ltd,4295872490,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,5882.15,31/12/2021,253,P1Y,Clarity AI,31/12/2021 0:00,E,India
+Nokia Oyj,4295866480,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.5,31/12/2020,253,P1Y,Clarity AI,,E,Finland
+CSX Corp,4295903665,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,93,31/12/2017,252,P1Y,Clarity AI,,E,United States
+Clariant AG,4295890576,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,248,31/12/2020,252,P1Y,Clarity AI,,E,Switzerland
+Kinder Morgan Inc,4298464085,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,300,31/12/2020,252,P1Y,Clarity AI,,E,United States
+CSX Corp,4295903665,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,48,31/12/2021,252,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+Granges AB,4295890016,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3.3,31/12/2018,252,P1Y,Clarity AI,,E,Sweden
+Granges AB,4295890016,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3.2,31/12/2019,252,P1Y,Clarity AI,,E,Sweden
+Eurazeo SE,4295867940,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2550,31/12/2018,252,P1Y,Clarity AI,,E,France
+Taiwan Semiconductor Manufacturing Co Ltd,4295891425,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,39.48,31/12/2021,252,P1Y,Clarity AI,31/12/2021 0:00,E,"Taiwan, China"
+Clariant AG,4295890576,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,180,31/12/2018,252,P1Y,Clarity AI,,E,Switzerland
+Taiwan Semiconductor Manufacturing Co Ltd,4295891425,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,38.13,31/12/2020,252,P1Y,Clarity AI,,E,"Taiwan, China"
+Eurazeo SE,4295867940,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1842,31/12/2020,252,P1Y,Clarity AI,,E,France
+Kinder Morgan Inc,4298464085,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,200,31/12/2022,252,P1Y,Clarity AI,31/12/2022 0:00,E,United States
+Taiwan Semiconductor Manufacturing Co Ltd,4295891425,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,43.87,31/12/2017,252,P1Y,Clarity AI,31/12/2017 0:00,E,"Taiwan, China"
+CSX Corp,4295903665,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,103,31/12/2018,252,P1Y,Clarity AI,,E,United States
+Lonza Group AG,5000030891,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4,31/12/2020,252,P1Y,Clarity AI,,E,Switzerland
+Lonza Group AG,5000030891,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6,31/12/2021,252,P1Y,Clarity AI,31/12/2021 0:00,E,Switzerland
+Eurazeo SE,4295867940,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,516,31/12/2017,252,P1Y,Clarity AI,31/12/2017 0:00,E,France
+Clariant AG,4295890576,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,172,31/12/2019,252,P1Y,Clarity AI,,E,Switzerland
+Clariant AG,4295890576,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,379,31/12/2016,252,P1Y,Clarity AI,,E,Switzerland
+CSX Corp,4295903665,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,44,31/12/2020,252,P1Y,Clarity AI,,E,United States
+Kinder Morgan Inc,4298464085,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,200,31/12/2021,252,P1Y,Clarity AI,31/12/2021 0:00,E,United States
+Clariant AG,4295890576,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,241,31/12/2017,252,P1Y,Clarity AI,31/12/2017 0:00,E,Switzerland
+Granges AB,4295890016,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3.5,31/12/2017,252,P1Y,Clarity AI,,E,Sweden
+CSX Corp,4295903665,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,866,31/12/2016,252,P1Y,Clarity AI,,E,United States
+Granges AB,4295890016,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6.2,31/12/2021,252,P1Y,Clarity AI,31/12/2021 0:00,E,Sweden
+Lonza Group AG,5000030891,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4,31/12/2019,252,P1Y,Clarity AI,,E,Switzerland
+Eurazeo SE,4295867940,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2086,31/12/2019,252,P1Y,Clarity AI,,E,France
+Granges AB,4295890016,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3.1,31/12/2020,252,P1Y,Clarity AI,,E,Sweden
+Lonza Group AG,5000030891,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,36.4,31/12/2018,252,P1Y,Clarity AI,,E,Switzerland
+Carnival PLC,4295896208,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,98089,31/12/2016,251,P1Y,Clarity AI,,E,United Kingdom
+Carnival PLC,4295896208,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,5728,31/12/2020,251,P1Y,Clarity AI,,E,United Kingdom
+Hong Kong and China Gas Co Ltd,4295871290,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,392.9,31/12/2018,251,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+Kemira Oyj,4295866550,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,70,31/12/2018,251,P1Y,Clarity AI,,E,Finland
+NWS Holdings Ltd,4295871291,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2.6,31/12/2018,251,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+Carnival PLC,4295896208,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,98543,31/12/2018,251,P1Y,Clarity AI,,E,United Kingdom
+ACS Actividades de Construccion y Servicios SA,4295889547,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6.138,31/12/2016,251,P1Y,Clarity AI,,E,Spain
+Evonik Industries AG,5000074393,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1272,31/12/2020,251,P1Y,Clarity AI,,E,Germany
+Evonik Industries AG,5000074393,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2408,31/12/2018,251,P1Y,Clarity AI,,E,Germany
+Hong Kong and China Gas Co Ltd,4295871290,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,89.2,31/12/2017,251,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+Origin Energy Ltd,4295856620,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,28417,31/12/2016,251,P1Y,Clarity AI,,E,Australia
+Hong Kong and China Gas Co Ltd,4295871290,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,256.6,31/12/2021,251,P1Y,Clarity AI,31/12/2021 0:00,E,"Hong Kong SAR, China"
+Hong Kong and China Gas Co Ltd,4295871290,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,422,31/12/2019,251,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+Rieter Holding AG,4295890579,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,11.8,31/12/2016,251,P1Y,Clarity AI,,E,Switzerland
+ACS Actividades de Construccion y Servicios SA,4295889547,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6.4,31/12/2020,251,P1Y,Clarity AI,,E,Spain
+ACS Actividades de Construccion y Servicios SA,4295889547,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,8.549,31/12/2017,251,P1Y,Clarity AI,,E,Spain
+Glencore PLC,5034844193,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,349995,31/12/2021,251,P1Y,Clarity AI,31/12/2021 0:00,E,
+Kemira Oyj,4295866550,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,84,31/12/2016,251,P1Y,Clarity AI,,E,Finland
+Rieter Holding AG,4295890579,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,10.12,31/12/2018,251,P1Y,Clarity AI,31/12/2018 0:00,E,Switzerland
+Rieter Holding AG,4295890579,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,12,31/12/2017,251,P1Y,Clarity AI,,E,Switzerland
+NWS Holdings Ltd,4295871291,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.008,31/12/2021,251,P1Y,Clarity AI,31/12/2021 0:00,E,"Hong Kong SAR, China"
+ACS Actividades de Construccion y Servicios SA,4295889547,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6.184,31/12/2018,251,P1Y,Clarity AI,,E,Spain
+Origin Energy Ltd,4295856620,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,39095,31/12/2020,251,P1Y,Clarity AI,,E,Australia
+NWS Holdings Ltd,4295871291,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2.53,31/12/2019,251,P1Y,Clarity AI,31/12/2019 0:00,E,"Hong Kong SAR, China"
+Rieter Holding AG,4295890579,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,9.42,31/12/2021,251,P1Y,Clarity AI,31/12/2021 0:00,E,Switzerland
+Origin Energy Ltd,4295856620,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,33152,31/12/2021,251,P1Y,Clarity AI,31/12/2021 0:00,E,Australia
+Origin Energy Ltd,4295856620,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,45049,31/12/2019,251,P1Y,Clarity AI,,E,Australia
+Hong Kong and China Gas Co Ltd,4295871290,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,258,31/12/2020,251,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+Hong Kong and China Gas Co Ltd,4295871290,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,98.4,31/12/2016,251,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+Origin Energy Ltd,4295856620,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,39329,31/12/2018,251,P1Y,Clarity AI,31/12/2018 0:00,E,Australia
+Jeronimo Martins SGPS SA,4295886732,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,37.2,31/12/2021,251,P1Y,Clarity AI,31/12/2021 0:00,E,Portugal
+NWS Holdings Ltd,4295871291,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2.7,31/12/2020,251,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+Kemira Oyj,4295866550,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,63,31/12/2019,251,P1Y,Clarity AI,,E,Finland
+Origin Energy Ltd,4295856620,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,30574,31/12/2017,251,P1Y,Clarity AI,31/12/2017 0:00,E,Australia
+Carnival PLC,4295896208,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3614,31/12/2021,251,P1Y,Clarity AI,31/12/2021 0:00,E,United Kingdom
+Evonik Industries AG,5000074393,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1200,31/12/2019,251,P1Y,Clarity AI,,E,Germany
+Evonik Industries AG,5000074393,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2826,31/12/2017,251,P1Y,Clarity AI,31/12/2017 0:00,E,Germany
+NWS Holdings Ltd,4295871291,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1.7,31/12/2017,251,P1Y,Clarity AI,31/12/2017 0:00,E,"Hong Kong SAR, China"
+ACS Actividades de Construccion y Servicios SA,4295889547,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1.104,31/12/2021,251,P1Y,Clarity AI,31/12/2021 0:00,E,Spain
+Carnival PLC,4295896208,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,99622,31/12/2017,251,P1Y,Clarity AI,,E,United Kingdom
+Carnival PLC,4295896208,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6000,31/12/2022,251,P1Y,Clarity AI,31/12/2022 0:00,E,United Kingdom
+ACS Actividades de Construccion y Servicios SA,4295889547,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6.66,31/12/2019,251,P1Y,Clarity AI,,E,Spain
+Kemira Oyj,4295866550,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,77,31/12/2017,251,P1Y,Clarity AI,31/12/2017 0:00,E,Finland
+Fortis Inc,4295861818,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,5125,31/12/2016,250,P1Y,Clarity AI,,E,Canada
+Autoneum Holding AG,5001006623,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,133,31/12/2016,250,P1Y,Clarity AI,,E,Switzerland
+Sacyr SA,4295889535,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,48.84,31/12/2017,250,P1Y,Clarity AI,31/12/2017 0:00,E,Spain
+Drax Group PLC,4295893846,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1087,31/12/2021,250,P1Y,Clarity AI,31/12/2021 0:00,E,United Kingdom
+Drax Group PLC,4295893846,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1588.68,31/12/2019,250,P1Y,Clarity AI,,E,United Kingdom
+Autoneum Holding AG,5001006623,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,119,31/12/2020,250,P1Y,Clarity AI,,E,Switzerland
+Fortis Inc,4295861818,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4000,31/12/2022,250,P1Y,Clarity AI,31/12/2022 0:00,E,Canada
+Enbridge Inc,4295860623,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,120,31/12/2022,250,P1Y,Clarity AI,31/12/2022 0:00,E,Canada
+Autoneum Holding AG,5001006623,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,157,31/12/2018,250,P1Y,Clarity AI,31/12/2018 0:00,E,Switzerland
+Enagas SA,4295889502,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,16,31/12/2018,250,P1Y,Clarity AI,,E,Spain
+Mahindra and Mahindra Ltd,4295872671,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6.978686,31/12/2021,250,P1Y,Clarity AI,31/12/2021 0:00,E,India
+Enagas SA,4295889502,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,16,31/12/2017,250,P1Y,Clarity AI,31/12/2017 0:00,E,Spain
+Enagas SA,4295889502,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3,31/12/2021,250,P1Y,Clarity AI,31/12/2021 0:00,E,Spain
+Fortis Inc,4295861818,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,5000,31/12/2020,250,P1Y,Clarity AI,,E,Canada
+Enagas SA,4295889502,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,13,31/12/2020,250,P1Y,Clarity AI,,E,Spain
+Enbridge Inc,4295860623,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,121,31/12/2021,250,P1Y,Clarity AI,31/12/2021 0:00,E,Canada
+Vedanta Ltd,4295872982,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,257676,31/12/2020,250,P1Y,Clarity AI,,E,India
+Autoneum Holding AG,5001006623,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,93,31/12/2021,250,P1Y,Clarity AI,31/12/2021 0:00,E,Switzerland
+Vedanta Ltd,4295872982,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,219745,31/12/2021,250,P1Y,Clarity AI,31/12/2021 0:00,E,India
+Fortis Inc,4295861818,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4682,31/12/2017,250,P1Y,Clarity AI,,E,Canada
+Autoneum Holding AG,5001006623,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,155,31/12/2017,250,P1Y,Clarity AI,31/12/2017 0:00,E,Switzerland
+CenterPoint Energy Inc,4295912256,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4708,31/12/2022,250,P1Y,Clarity AI,31/12/2022 0:00,E,United States
+Fortis Inc,4295861818,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6837,31/12/2018,250,P1Y,Clarity AI,,E,Canada
+Fortis Inc,4295861818,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,6000,31/12/2019,250,P1Y,Clarity AI,,E,Canada
+Fortis Inc,4295861818,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4000,31/12/2021,250,P1Y,Clarity AI,31/12/2021 0:00,E,Canada
+Autoneum Holding AG,5001006623,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,177,31/12/2019,250,P1Y,Clarity AI,31/12/2019 0:00,E,Switzerland
+CenterPoint Energy Inc,4295912256,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4643,31/12/2020,250,P1Y,Clarity AI,,E,United States
+Sacyr SA,4295889535,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,689.72,31/12/2020,250,P1Y,Clarity AI,,E,Spain
+Drax Group PLC,4295893846,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3017.24,31/12/2020,250,P1Y,Clarity AI,,E,United Kingdom
+Enagas SA,4295889502,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,17,31/12/2019,250,P1Y,Clarity AI,,E,Spain
+Intesa Sanpaolo SpA,4295875735,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,24,31/12/2021,249,P1Y,Clarity AI,31/12/2021 0:00,E,Italy
+Volvo AB,4295890024,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,13.3,31/12/2017,249,P1Y,Clarity AI,31/12/2017 0:00,E,Sweden
+Intesa Sanpaolo SpA,4295875735,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,64,31/12/2017,249,P1Y,Clarity AI,31/12/2017 0:00,E,Italy
+China Shineway Pharmaceutical Group Ltd,4295872000,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3.78,31/12/2020,249,P1Y,Clarity AI,,E,Cayman Islands
+Hengan International Group Company Ltd,4295871680,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,72,31/12/2019,249,P1Y,Clarity AI,,E,Cayman Islands
+AAC Technologies Holdings Inc,4295871887,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.01147,31/12/2021,249,P1Y,Clarity AI,31/12/2021 0:00,E,Cayman Islands
+Walsin Lihwa Corp,4295891078,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,11.2,31/12/2021,249,P1Y,Clarity AI,31/12/2021 0:00,E,"Taiwan, China"
+Volvo AB,4295890024,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,13.6,31/12/2018,249,P1Y,Clarity AI,,E,Sweden
+Intesa Sanpaolo SpA,4295875735,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,23,31/12/2020,249,P1Y,Clarity AI,,E,Italy
+Hengan International Group Company Ltd,4295871680,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,121,31/12/2017,249,P1Y,Clarity AI,,E,Cayman Islands
+Acea SpA,4295875677,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.42,31/12/2017,249,P1Y,Clarity AI,31/12/2017 0:00,E,Italy
+China Shineway Pharmaceutical Group Ltd,4295872000,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,4.89,31/12/2017,249,P1Y,Clarity AI,,E,Cayman Islands
+China Shineway Pharmaceutical Group Ltd,4295872000,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3.23,31/12/2021,249,P1Y,Clarity AI,31/12/2021 0:00,E,Cayman Islands
+Bank of East Asia Ltd,4295872021,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.00695,31/12/2021,249,P1Y,Clarity AI,31/12/2021 0:00,E,"Hong Kong SAR, China"
+Mercedes Benz Group AG,4295869694,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,13,31/12/2021,249,P1Y,Clarity AI,31/12/2021 0:00,E,Germany
+Acea SpA,4295875677,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.9,31/12/2020,249,P1Y,Clarity AI,,E,Italy
+Acea SpA,4295875677,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1.6,31/12/2021,249,P1Y,Clarity AI,31/12/2021 0:00,E,Italy
+Volvo AB,4295890024,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,5.6,31/12/2020,249,P1Y,Clarity AI,,E,Sweden
+Acea SpA,4295875677,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.16,31/12/2018,249,P1Y,Clarity AI,,E,Italy
+Hengan International Group Company Ltd,4295871680,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,59,31/12/2020,249,P1Y,Clarity AI,,E,Cayman Islands
+China Shineway Pharmaceutical Group Ltd,4295872000,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3.78,31/12/2019,249,P1Y,Clarity AI,,E,Cayman Islands
+China Shineway Pharmaceutical Group Ltd,4295872000,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,5.83,31/12/2018,249,P1Y,Clarity AI,,E,Cayman Islands
+Volvo AB,4295890024,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,5,31/12/2021,249,P1Y,Clarity AI,31/12/2021 0:00,E,Sweden
+Acea SpA,4295875677,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1.51,31/12/2022,249,P1Y,Clarity AI,31/12/2022 0:00,E,Italy
+Hengan International Group Company Ltd,4295871680,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,79,31/12/2018,249,P1Y,Clarity AI,,E,Cayman Islands
+Acea SpA,4295875677,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.33,31/12/2019,249,P1Y,Clarity AI,,E,Italy
+Walsin Lihwa Corp,4295891078,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,12.1,31/12/2020,249,P1Y,Clarity AI,,E,"Taiwan, China"
+Walsin Lihwa Corp,4295891078,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,22.68,31/12/2022,249,P1Y,Clarity AI,31/12/2022 0:00,E,"Taiwan, China"
+Volvo AB,4295890024,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,12.9,31/12/2016,249,P1Y,Clarity AI,,E,Sweden
+China Shineway Pharmaceutical Group Ltd,4295872000,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1.71,31/12/2022,249,P1Y,Clarity AI,31/12/2022 0:00,E,Cayman Islands
+Hengan International Group Company Ltd,4295871680,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,38,31/12/2021,249,P1Y,Clarity AI,31/12/2021 0:00,E,Cayman Islands
+Volvo AB,4295890024,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,9.6,31/12/2019,249,P1Y,Clarity AI,,E,Sweden
+Bank of East Asia Ltd,4295872021,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,0.01,31/12/2020,249,P1Y,Clarity AI,,E,"Hong Kong SAR, China"
+Ajinomoto Co Inc,4295877401,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,10701,31/12/2019,248,P1Y,Clarity AI,,E,Japan
+LATAM Airlines Group SA,4295863482,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1720,31/12/2016,248,P1Y,Clarity AI,,E,Chile
+Ajinomoto Co Inc,4295877401,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1461,31/12/2016,248,P1Y,Clarity AI,,E,Japan
+S-Oil Corp,4295881247,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,425,31/12/2019,248,P1Y,Clarity AI,,E,"Korea, Rep."
+Tata Consultancy Services Ltd,4295872706,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,3.3,31/12/2016,248,P1Y,Clarity AI,,E,India
+Borregaard ASA,5037819440,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,72,31/12/2019,248,P1Y,Clarity AI,,E,Norway
+Tata Consultancy Services Ltd,4295872706,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,2.9,31/12/2017,248,P1Y,Clarity AI,31/12/2017 0:00,E,India
+Hero MotoCorp Ltd,4295872666,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,33,31/12/2018,248,P1Y,Clarity AI,,E,India
+S-Oil Corp,4295881247,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,425,31/12/2022,248,P1Y,Clarity AI,31/12/2022 0:00,E,"Korea, Rep."
+Siegfried Holding AG,5000066884,float,REPORTED,Total amount of SOx emissions emitted in tons.,SOXEMISSIONS,Tons of SOx,1.3,31/12/2022,248,P1Y,Clarity AI,31/12/2022 0:00,E,Switzerland

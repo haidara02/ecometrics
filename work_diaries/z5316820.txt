@@ -1,0 +1,29 @@
+Week 1
+We decided on our team, scrum master, product owner and frontend and backend teams. I created firebase project and setup the docker environment for the project.
+
+Week 2
+To get a headstart on authentication without a finalised frontend theme, I implemented a basic login and register functionality using the Firebase API as we knew this would be required.
+
+Week 3
+To address the updated storyboards and requirements , I implemented the verify email and forgot password features to make authentication more user friendly.
+
+Week 4
+We decided on the structure of how to display metrics and shifted focus on defining frameworks. During this week I created a framework collection in firestore along with API functions to add and update frameworks from a group of metrics.
+
+Week 5
+This week I implemented the API functions for user features - reset email, password, profile picture and delete account
+
+Week 6
+With less backend work required and members more familiar with firebase now, I took up the frontend for user page, implementing the modals with fields neccessary to confirm requests e.g. reauthenticate user to update email.
+
+Week 7
+I experimented with randomly generated avatars using Dicebear but this didn't work with the MUI Avatar element as it couldn't render SVGs. We also cleaned up alerts and error checking for user functions before the Demo B.
+
+Week 8
+We explored better ways of normalising metric scores, in particular softmax which is common in ML applications. This method returned a weighting for each given metric value which added to 1 but was prone to inflating outliers. We did not go ahead with this as the client confirmed the ranking system was valid.
+
+Week 9
+This week I implemented the download and upload framework functions which saves a selected framework as a json file, which can be shared to other users.
+
+Week 10
+I was away this week so I recorded a video walking through the technical specifications of the project for Demo C.

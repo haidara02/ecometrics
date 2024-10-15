@@ -1,0 +1,29 @@
+Week 1
+Our group was formed, and we quickly organised ourselves by selecting a scrum master and a product owner. We also decided on our project and initiated the setup process. I took charge of creating a Jira board, adding all members and mentors, and sending our group information to the tutors via email. To streamline communication, we set up a Discord server and brainstormed preliminary tasks to tackle before diving into the proposal specifications or client communication. I promptly added these tasks to Jira, along with creating relevant epics and tasks. Additionally, I initiated a sprint cycle aligned with our tutorial schedule. The group further delineated roles, determining who would handle frontend and backend tasks, and we scheduled asynchronous stand-ups and regular meetings. Subsequently, I began working on frontend development, collaborating with Alice to establish a brand kit, including a color palette and brand name, to facilitate faster and more consistent design decisions.
+
+Week 2
+I focused on fleshing out storyboards for our project, starting with a thorough discussion to ensure everyone understood the project's scope before diving into sprint one's objectives. We collectively decided to prioritise developing the company list, metrics dashboard, and login/register pages, with particular emphasis on the metrics dashboard due to its central role in the project. Utilising Figma, we began realising these ideas. This week marked the initiation of our stand-ups, during which I generated more tickets for the backlog to prepare for upcoming sprints. I also detailed sprint focuses and established start and end dates for our proposal.
+
+Week 3
+I concentrated on refining storyboards for login, registration, metrics dashboard, and company list. Collaborating with the product owner, we created user stories and acceptance criteria for the application. Ensuring alignment among all team members regarding the functionality and goals of the application components, I reminded the team about stand-up meetings. To optimise efficiency, I assigned sprint 1 user stories to team members and restructured the team to allocate more individuals to the frontend team now that backend development was mostly completed. Additionally, I organised user stories in Jira, refined the backlog, and finalised the timeline and board. Lastly, I proofread, polished, exported, and uploaded the proposal.
+
+Week 4
+I laid out the necessary queries to establish the link between backend and frontend, defined required data structures and types, and determined the database structures for storing user-generated content. I cloned the repository and set up a local development environment with WSL and Firebase. For frontend development, I structured the file directory for the metric dashboard within the repository, enabled routes for navigation, and planned the functionality of the framework editor.
+
+Week 5
+I implemented the layout for the framework editor based on Figma wireframes and incorporated search selectors to enable the selection of years and metrics for ESG score calculation. Additionally, I added a framework selector to allow users to choose the framework for ESG score calculation and included functionality to add new frameworks. Addressing issues such as faulty redirection and adding a navbar and header to the metrics dashboard, I ensured all API calls for retrieving metrics and frameworks were connected. I also developed a presentation run sheet, organized the Jira board, and presented at the demo. Leading the retrospective, I assigned retro items and submitted them.
+
+Week 6
+I introduced a CSV upload page for database uploads and collaborated with the product owner to select user stories and objectives for the upcoming sprint. Tasks were then assigned to team members, and I also addressed Firebase deployment issues.
+
+Week 7
+I led efforts to rename and restructure files and folders within the codebase, removing unused components and making CSV uploads drag-and-drop enabled. I modified logic for navigating from the companies page to the metrics dashboard and adjusted the metrics dashboard to retrieve multiple company names, metrics, and ESG scores for each company.
+
+Week 8
+To address bugs caused by changes in metric year format, I implemented fixes and made metric names more user-friendly using enum mapping. Additionally, I enabled text wrapping for metric names in the search selector and added loaders to various pages. I refined the ESG score calculation function to ensure proper registration of metric values and introduced a feature for uploading multiple CSV files simultaneously to enhance database upload efficiency. Similar to previous weeks, I prepared the presentation run sheet, facilitated the retro, and collaborated with the product owner to define objectives for the upcoming sprint.
+
+Week 9
+I implemented a feature to disable metrics when data isn't available for the selected companies and years, accompanied by tooltips to explain the reasoning behind disabled metrics. I also prevented the incorporation of unavailable metrics in ESG calculation and integrated data retrieval for companies directly into ESG score calculation and data display.
+
+Week 10
+We introduced a framework options menu and proceeded with frontend implementation for framework upload and download. Additionally, I added success alerts for framework operations and adjusted the color scheme for company comparisons. Furthermore, I contributed to preparing for the final demo and submitted the software quality submission.

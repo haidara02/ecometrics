@@ -1,0 +1,53 @@
+Work Diary
+
+Week 1.
+Read through spec for project 13 (selected project 13). Decided on project outlines loosely on the spec. First group meeting. Decided to take on Product Owner and backend dev role. Group decided on preliminary tasks to do before client and proposal requirements came out. Decided on group roles, async/sync meetings. 
+Researched ‘green finance’ extensively and wrote the background and problem statement for the proposal. Researched past years proposals and built structure off them. First meeting with backend developers to decide on infrastructure and backend API (flask), oversaw docker setup.
+
+Week 2.
+Proposal came out, checked requirements. Researched alternative tools and products to our proposed project, found ekko, wealthify, tulipshare. Wrote summaries and drawbacks. Filled in proposal sections for sprints, user stories (for sprint 2 from week 3-5) and deadlines. 
+Worked on making a hook for frontend team to use with data base. Able to mock up a page where it pulls all the metrics from sample database, then displays certain fields on screen.
+Wrote 15 user stories for user login, registration, reset password, filtering industry and company view, metric view. Wrote ~half acceptance criteria for these user stories. Rough drafts at first.
+
+Week 3.
+Worked on proposal. Finished all user stories and acceptance criteria after working with frontend designers to overview the storyboards. Rewrote acceptance criteria after discussion with tutor. Finished novel functions and APA referencing. 
+Touched base with client. Asked some questions to define grouping of metrics for framework.
+Wrote some queries to pull data from the database, and then filter them based on some very simple filters; e.g. company industry, company name, metric framework, metric value. Moved most of the db code into separate file.
+
+Week 4.
+Cleaned up filter code and made pull request. Clean up involves moving filters in namespace, more filters, smarter enum and interface use to limit variable usage of filtering.
+Fix firebase deploy not connecting to github. 
+Setup work for next couple of weeks. New filtering system for custom user made frameworks, and pulling that data to return a list of metrics, based on user frameworks. More backend planning for queries to support API calls by frontend.
+
+Week 5.
+New esg calculation function. Merged frontend metrics page to test. Now logs esg score for current company, which is just in time for demo A.
+Demo A, ran through concerns with tutor. Reached out to client again. 
+
+Week 6.
+Worked with product owner to write new sprint 4 user stories, and define new acceptance criteria regarding tutor feedback. 
+
+Week 7.
+Got back client feedback and responses to previous questions over the term. Research on the ESG calculations. Tried to work with new data and information, but some are not properly answered. Sent email to tutor to reclarify spec. Talked to James about suggestions for non-clarified specifications (how to calculate ESG score, metrics groupings). 
+Wrote python script to read and parse CSV data. Workshop new ESG calculation - we rank every company metric value for a metric within a year, then do 1-rank * 100 to get a value between 0-100. This parses and overwrites the CSV data so we can upload it to firebase again.
+
+Week 8.
+Wrote new python script to parse and webscrape company industry… tried multiple methods and failed
+- opencorporate prohibits scraping
+- google times out, sleeping to slow down the function calls for 20548 companies will take 16.5 hours (average 8.7 seconds per 3 companies, so 2.9 seconds per company)
+- wikipedia api fails, because not every page has exact match (e.g. company pty ltd vs company)
+- chat gpt can’t handle large datasets
+Split up csv files to upload via project function.
+
+Demo B - met up irl with client and cleared up questions. Client is happy with project so far, some minor suggestions. Ranked esg score calculation basically aligns with what they wanted. All good.
+Gain deep understanding of client’s graph and new data. Making new final categories (filters for metrics) and final frameworks to fit what they want on paper, then importing it into the database for public consumption. Made these frameworks public for all users so that all users have these as the default frameworks when logging in.
+
+Week 9.
+Work with Scrum master to write new sprint user stories.
+Started writing final report overview, user stories and filling out every new acceptance criteria, and then talking about implementation details for ESG scores.
+Found error with frameworks - can’t have too many metrics selected at a given time (firebase has maximum of 30 intersections at a given time)… so splitting up existing frameworks into smaller subsets of 10 or less.
+Later, found out this error was fixed by backend restructuring, but it works out because we have smaller targeted frameworks based on categories.
+
+Week 10.
+Finishing up writing project report. Filling out remaining work.
+Made pitch and presentation slides, as well as delegating demo duties for team.
+
