@@ -1,4 +1,4 @@
-# Ecometrics (24t1_comp3900_p13)
+# Ecometrics
 
 You can access the deployed Ecometrics webpage at [Ecometrics](https://maple-c40cf.web.app/), or you can run the application locally by:
 
