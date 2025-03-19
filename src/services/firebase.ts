@@ -43,13 +43,6 @@ import { parseMetricYear } from '../utils/helpers';
 import { saveAs } from 'file-saver';
 
 const firebaseConfig = {
-  apiKey: '[REDACTED]',
-  authDomain: 'maple-c40cf.firebaseapp.com',
-  projectId: 'maple-c40cf',
-  storageBucket: 'maple-c40cf.appspot.com',
-  messagingSenderId: '769033798019',
-  appId: '1:769033798019:web:3a219315917e189e5576b6',
-  measurementId: 'G-2P90DJPLTN',
 };
 
 export const app = firebase.initializeApp(firebaseConfig);
